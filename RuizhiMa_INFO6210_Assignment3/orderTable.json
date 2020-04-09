@@ -1,0 +1,7002 @@
+[
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "686800706",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/31/14"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "185941302",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "12/8/11"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "246222341",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/9/16"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "161442649",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/12/10"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "645713555",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/31/11"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "683458888",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "12/28/14"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "679414975",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "4/17/15"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "208630645",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/28/12"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "266467225",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "3/7/15"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "118598544",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/19/14"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "451010930",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "1/19/16"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "220003211",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/18/10"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "702186715",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "12/22/16"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "544485270",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "1/5/16"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "714135205",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/6/11"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "448685348",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/22/10"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "405997025",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "5/12/16"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "414244067",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "8/7/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "821912801",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "10/3/14"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "247802054",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/8/12"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "531023156",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "10/15/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "880999934",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "9/16/10"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "127468717",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "3/9/11"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "770478332",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "1/24/16"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "430390107",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "11/13/12"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "397877871",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "3/20/17"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "683927953",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/4/14"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "469839179",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/22/12"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "357222878",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/9/16"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "118002879",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "1/7/16"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "944415509",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/23/17"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "499009597",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "7/9/15"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "564646470",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "3/16/14"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "294499957",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/8/14"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "262056386",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/24/10"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "211114585",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "5/14/10"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "405785882",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/22/13"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "280494105",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/14/11"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "689975583",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "8/12/16"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "759279143",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/18/11"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "133766114",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/12/14"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "329110324",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "9/2/13"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "681298100",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "11/20/11"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "596628272",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/30/16"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "901712167",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/17/15"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "693473613",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "4/21/13"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "489148938",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "9/1/10"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "876286971",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/15/12"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "262749040",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/30/15"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "726708972",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "1/26/17"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "366653096",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "5/31/12"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "951380240",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "12/20/10"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "270001733",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "1/1/15"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "681941401",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "7/28/16"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "566935575",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "6/7/16"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "175033080",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/5/12"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "276595246",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/15/12"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "812295901",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "2/13/11"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "443121373",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/19/14"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "600370490",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/25/17"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "535654580",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "7/29/14"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "470897471",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/22/15"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "248335492",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/4/13"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "680517470",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/25/15"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "400304734",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "7/29/13"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "810871112",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/8/13"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "235702931",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "4/3/12"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "668599021",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/12/14"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "123670709",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "2/1/16"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "285341823",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "6/8/11"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "658348691",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "8/22/10"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "817740142",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/19/13"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "858877503",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/6/13"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "947434604",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/19/17"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "869397771",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/17/15"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "481065833",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/8/12"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "159050118",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "10/1/13"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "350274455",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "6/14/14"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "221975171",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "5/17/10"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "811701095",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "7/19/17"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "977313554",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "3/29/15"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "546986377",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/10/10"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "769205892",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/17/10"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "262770926",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/8/13"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "866792809",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "3/18/17"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "890695369",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/23/11"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "964214932",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/31/14"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "887400329",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "8/17/13"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "980612885",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/4/11"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "734526431",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/2/16"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "160127294",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "3/23/14"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "238714301",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/13/10"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "671898782",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "2/6/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "331604564",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/17/10"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "410067975",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "11/20/16"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "369837844",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/23/11"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "193775498",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "1/31/13"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "835054767",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "10/9/15"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "167161977",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/24/13"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "633895957",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/22/14"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "699368035",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/7/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "698002040",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/29/15"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "584534299",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/18/12"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "384013640",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "7/19/12"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "641801393",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "5/24/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "173571383",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "1/11/17"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "115309941",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/6/11"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "773315894",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/4/11"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "274200570",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "6/26/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "414887797",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/17/11"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "812613904",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/29/10"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "254927718",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "9/7/11"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "749690568",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/26/14"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "775076282",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/19/14"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "229571187",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "9/18/15"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "881974112",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "7/11/11"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "521396386",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/14/12"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "607261836",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "2/22/17"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "419306790",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "3/12/12"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "207580077",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/18/10"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "742443025",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "4/15/11"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "164569461",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/5/10"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "734945714",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/12/14"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "284870612",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/7/15"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "765955483",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/7/11"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "600124156",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/21/10"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "529612958",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/11/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "466970717",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/18/11"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "845058763",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "9/22/12"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "367050921",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/31/14"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "956433522",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "9/12/15"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "107005393",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "5/4/11"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "332877862",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/7/13"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "618474757",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "12/31/15"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "468532407",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "2/11/14"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "358099639",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/29/15"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "382537782",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "1/27/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "707520663",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/15/13"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "219034612",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "12/10/14"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "573378455",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/17/15"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "347163522",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "3/22/11"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "887313640",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/21/13"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "461065137",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "8/19/17"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "105966842",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/19/17"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "479880082",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "5/23/14"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "510978686",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "9/30/15"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "547748982",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/14/13"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "108989799",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/9/13"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "133812463",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/9/14"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "731640803",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/30/11"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "732211148",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/14/10"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "835572326",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "8/8/11"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "462085664",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/15/11"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "902424991",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "7/4/16"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "367576634",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/5/14"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "738839423",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/31/17"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "817824685",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "7/27/10"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "376456248",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "8/1/13"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "606970441",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "9/16/16"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "971916091",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/19/15"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "554154527",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/15/12"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "306859576",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "7/19/17"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "803517568",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/21/17"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "887927329",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "10/2/11"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "824200189",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "11/26/15"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "946759974",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "9/14/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "310343015",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/28/15"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "739998137",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "7/9/14"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "981086671",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "11/21/12"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "749282443",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/25/13"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "280571782",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "3/11/11"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "781253516",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "9/1/14"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "377938973",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "7/11/17"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "867551982",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/3/11"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "967328870",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/15/10"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "364818465",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/16/11"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "167882096",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "3/31/14"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "654693591",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "12/1/12"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "823739278",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/29/11"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "643817985",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/19/12"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "604041039",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/15/17"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "363832271",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "9/12/10"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "102928006",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "1/31/16"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "971377074",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/15/16"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "139540803",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "12/4/10"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "248093020",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/16/10"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "858020055",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/17/14"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "700620734",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/5/15"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "827506387",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/30/17"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "560600841",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "4/14/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "642140424",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/16/13"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "984673964",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/5/15"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "221062791",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "4/18/12"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "654480731",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/8/16"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "608414113",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/23/11"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "276661765",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "4/20/16"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "373335015",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/28/11"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "782857692",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "5/28/13"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "109966123",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "6/5/10"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "629709136",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/6/17"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "637448060",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "9/15/12"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "298856723",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "4/3/17"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "299921452",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/23/15"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "496941077",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/29/10"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "366526925",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "7/14/16"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "355602824",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/15/12"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "531405103",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "4/19/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "131482589",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/20/10"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "713696610",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "3/28/14"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "306220996",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "1/30/14"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "157542073",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/15/10"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "686458671",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "3/8/15"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "132082116",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "7/22/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "403836238",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "4/3/13"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "331457364",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "4/23/14"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "614994323",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "9/12/17"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "674808442",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/24/10"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "901573550",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/23/16"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "406275975",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "5/10/14"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "170214545",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "8/19/16"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "795000588",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/8/16"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "252557933",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/4/16"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "635122907",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/13/16"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "505244338",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "9/19/11"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "745783555",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/9/12"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "509914386",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/11/12"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "371123158",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "2/9/14"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "973208701",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "12/28/16"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "780282342",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "12/27/13"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "126767909",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "5/22/10"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "767401731",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "7/30/12"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "927232635",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "11/24/16"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "251621949",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/20/12"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "256243503",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/23/17"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "277083623",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/2/11"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "620441138",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/22/10"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "312927377",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/7/15"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "251466166",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/8/10"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "953293836",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "7/22/10"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "305959212",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "4/23/12"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "317323625",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "3/24/14"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "365560901",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/1/11"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "349157369",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "4/5/16"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "236911857",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/25/14"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "517935693",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/16/15"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "851652705",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/27/12"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "517799222",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/23/12"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "666424071",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/4/15"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "267888581",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/22/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "162866580",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "7/26/11"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "812344396",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/30/14"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "947620856",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "9/3/14"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "720307290",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "3/28/15"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "352327525",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "10/27/16"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "585917890",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "7/23/13"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "433627212",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/13/12"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "328316819",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "5/30/12"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "773160541",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/21/11"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "991644704",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "5/18/16"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "277568137",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "2/7/14"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "245042169",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "12/15/16"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "778490626",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "3/24/11"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "482649838",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "11/13/14"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "732568633",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "7/5/12"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "723608338",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "11/23/12"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "621442782",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/14/14"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "212058293",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/6/15"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "251753699",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/24/14"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "217140328",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "10/30/14"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "555142009",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "7/10/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "432995069",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "12/13/10"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "888248336",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/7/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "778763139",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "5/9/14"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "832713305",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/9/13"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "498585164",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/29/14"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "195177543",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/23/16"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "861601769",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "12/2/10"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "807281672",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "1/26/15"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "661953580",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/24/11"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "225666320",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "8/21/16"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "718781220",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/19/11"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "731972110",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "4/15/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "276225316",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "2/9/15"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "332839667",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/27/16"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "603426492",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "6/15/14"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "859909617",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/29/13"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "494525372",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "3/2/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "769822585",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "5/15/16"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "768662583",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/10/12"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "544219195",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "3/9/15"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "669978749",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/20/11"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "889740073",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/26/15"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "567614495",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "6/28/12"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "938025844",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/21/16"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "155710446",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "2/25/17"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "945717132",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/13/12"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "253407227",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/15/13"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "494454562",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/22/14"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "104845464",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "7/24/12"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "290878760",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "4/7/14"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "979165780",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/10/14"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "366630351",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/12/10"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "770508801",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "6/25/11"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "978349959",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/21/13"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "298015153",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/14/14"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "807678210",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "10/30/10"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "605825459",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/14/13"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "561255729",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "2/1/16"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "263080346",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "12/14/13"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "270723140",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/9/14"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "763920438",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/10/17"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "192721068",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "5/20/14"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "227486360",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/8/11"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "808890140",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "9/22/12"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "597918736",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/11/15"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "125870978",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "11/20/14"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "444358193",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "10/21/13"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "875304210",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "3/12/13"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "360945355",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/16/14"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "613830459",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/16/17"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "266820847",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/10/12"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "723090350",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/27/14"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "306125295",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/15/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "109724509",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "6/16/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "847999322",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/6/15"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "605373561",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "3/2/17"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "686583554",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "2/22/12"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "666678130",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/21/15"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "641018617",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "6/30/13"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "775278842",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "9/22/11"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "855445134",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/6/16"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "737816321",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "9/21/10"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "799003732",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "7/14/13"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "585931193",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "11/21/12"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "165835034",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "1/5/12"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "576264083",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/14/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "675079667",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/7/15"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "290455615",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "5/28/12"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "670878255",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/15/12"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "435146415",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "8/12/11"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "522371423",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "4/8/17"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "141977107",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "4/18/17"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "823699796",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/19/16"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "567588317",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/26/15"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "594003999",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/16/11"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "393620669",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/2/11"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "877424657",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/10/16"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "326714789",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/21/17"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "243102395",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/18/13"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "398511302",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/20/17"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "185177838",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/4/11"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "865650832",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/31/13"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "622791612",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/31/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "409774005",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "11/27/10"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "800084340",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "4/21/16"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "637521445",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/12/13"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "186196649",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "5/28/11"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "680533778",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/25/14"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "275269162",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "9/15/14"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "795451629",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "6/19/15"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "986442506",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/1/14"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "563915622",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/10/12"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "663857305",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/13/13"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "692566382",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "1/14/11"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "576654183",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/3/13"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "313044536",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/14/11"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "418973767",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/27/12"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "581990706",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "11/15/14"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "109956681",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "7/24/15"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "181045520",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "5/27/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "693743550",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "1/9/11"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "716849601",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/31/10"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "739474999",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "1/1/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "421043574",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "9/7/16"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "841291654",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "3/20/15"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "450268065",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/4/14"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "918334138",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "6/12/12"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "386163699",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/19/14"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "214743077",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/18/17"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "935371100",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "7/6/15"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "899659097",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/3/12"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "329530894",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "2/13/10"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "867222821",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "2/6/16"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "625283706",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "10/23/14"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "936574876",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/9/14"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "504270160",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/25/10"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "351855885",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/2/11"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "673130881",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "3/23/11"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "382206475",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/13/14"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "263506495",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "12/14/15"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "721767270",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/18/17"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "432037627",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "8/18/11"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "389678895",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/24/14"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "760364902",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/24/17"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "430081975",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/9/10"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "155128943",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "5/5/15"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "312117135",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/16/12"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "447970378",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/2/13"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "629925000",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/18/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "995529830",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/17/13"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "402646195",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "3/28/16"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "479447925",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/4/12"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "674421346",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/29/17"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "506365287",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "5/16/14"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "914391076",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "8/4/16"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "207922542",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "7/1/12"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "816696012",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/16/14"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "740760314",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/21/15"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "300476777",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "2/28/13"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "786519229",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "6/7/13"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "409873998",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/3/10"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "151839911",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/22/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "614028298",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "9/9/12"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "668362987",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/13/14"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "607080304",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "4/5/13"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "792729079",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "1/17/12"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "308170640",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/10/14"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "106578814",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "10/2/14"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "761439931",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "3/28/14"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "216552817",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "9/27/12"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "536028802",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "9/22/10"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "254291713",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "8/15/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "226077878",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "10/23/12"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "476436126",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/15/11"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "650727784",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/6/15"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "464626681",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/27/10"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "154119145",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/21/15"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "925504004",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "12/6/15"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "905392587",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/16/12"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "990708720",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "5/4/12"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "798688733",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "9/18/14"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "916881453",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/28/16"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "653148210",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/21/17"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "285662829",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/13/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "612911641",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "8/31/16"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "703693473",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/12/14"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "147119653",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "8/9/12"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "402614009",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "3/2/12"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "749912869",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "4/25/13"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "539065062",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "3/10/14"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "540431916",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/15/13"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "694687259",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "6/2/16"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "562817418",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/2/11"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "676121222",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "9/9/16"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "286210000",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/5/12"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "515007579",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "1/11/15"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "304750287",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/1/10"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "467986953",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "2/17/13"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "537578904",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/9/15"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "116699969",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/18/14"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "228836476",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/13/17"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "167787253",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/16/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "647663629",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "5/20/14"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "652889430",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/15/15"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "588200986",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/15/15"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "928647124",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "8/30/15"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "869589173",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/17/16"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "576700961",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "7/23/15"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "735968816",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/6/12"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "303691565",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/19/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "556480538",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/7/12"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "141259562",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/11/14"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "925264966",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/18/15"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "346045577",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "2/20/16"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "861462724",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/19/10"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "499690234",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "8/28/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "509214437",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "11/2/15"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "408834159",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "7/18/17"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "237660729",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/30/16"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "105117976",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "9/9/15"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "640942227",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/4/12"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "745182311",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "5/5/16"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "738199555",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/21/14"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "110667788",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "9/10/15"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "673573338",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "7/20/12"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "708215034",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/13/11"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "816204202",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "7/1/12"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "769464671",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/24/11"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "860232770",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/4/15"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "551057326",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/22/10"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "724799668",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "5/27/16"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "534633624",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/8/11"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "554045522",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/20/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "526834189",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "5/2/12"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "717110955",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "8/9/10"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "559299647",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/26/13"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "908136594",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "3/10/11"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "888670623",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/16/15"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "146263062",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/16/17"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "196587741",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/28/16"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "375630986",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "6/2/10"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "989691627",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/10/13"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "165380990",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/27/12"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "599622905",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "10/22/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "109653699",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/6/17"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "183022201",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/15/11"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "127589738",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "4/2/11"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "221530139",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/26/11"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "363329732",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/22/15"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "521787345",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "6/25/17"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "286014306",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "8/15/12"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "215434443",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/30/15"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "489784085",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "11/1/11"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "459112060",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/12/14"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "893779695",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "11/7/15"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "834460818",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/31/11"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "742141759",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "10/28/13"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "248121345",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/14/10"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "404010903",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/4/12"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "531734263",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "10/12/12"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "473527753",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "12/29/12"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "141940200",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/2/12"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "869832932",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/25/17"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "460379779",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "11/4/11"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "837067067",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "10/26/15"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "393693625",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "4/9/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "744370782",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/14/14"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "873522365",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/13/15"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "285884702",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "6/10/14"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "356506621",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "9/3/12"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "280749452",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/1/10"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "224287021",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "5/17/14"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "873105657",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/23/15"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "283504188",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/2/10"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "632093942",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/5/12"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "565798747",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/9/16"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "151854932",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "10/19/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "427811324",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "4/16/11"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "251529252",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "5/5/12"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "351182544",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/22/13"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "175257527",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/25/14"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "142553031",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "9/11/13"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "292180383",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/15/16"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "733563411",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/20/11"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "296438443",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "4/19/11"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "580854308",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/18/17"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "107172334",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/23/16"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "166066348",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/5/10"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "768522679",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/27/15"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "195840156",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "7/25/13"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "849630105",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/9/12"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "701816356",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/30/17"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "944635236",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "7/27/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "140635573",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "3/21/17"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "972678697",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "2/25/11"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "793938434",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "2/8/16"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "177901113",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "8/13/11"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "668365561",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "5/4/12"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "729443109",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "1/12/11"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "695557582",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/3/13"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "521445310",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/4/10"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "232155120",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "3/30/13"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "373048341",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "12/12/11"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "659798800",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/2/15"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "428392827",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "2/5/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "885129249",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/3/11"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "156619393",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "12/5/12"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "939787089",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/9/15"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "151868665",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "4/19/12"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "180412948",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/24/14"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "333281266",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/28/13"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "888647449",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/28/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "844997823",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/26/14"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "171131217",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "10/8/13"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "256158959",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "1/18/13"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "759504878",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "12/8/11"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "960905301",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "11/25/10"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "210409057",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/4/15"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "178377473",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/1/10"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "805484378",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "5/1/14"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "752716100",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "10/12/16"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "551371467",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "9/15/12"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "353061807",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/5/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "379710948",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "1/30/11"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "473555219",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "11/6/15"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "547143447",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "2/23/11"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "133336961",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "6/13/12"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "635309588",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "10/14/16"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "376547658",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "12/26/14"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "450849997",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/21/10"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "672327935",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "2/6/15"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "925405299",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/1/15"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "714818418",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/24/13"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "515616118",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/5/10"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "423159730",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/11/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "603123080",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/29/13"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "841492497",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/31/10"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "994566810",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/1/16"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "538957345",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/25/13"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "821587932",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/11/11"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "109694898",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "10/16/13"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "340827071",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/5/14"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "372845780",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/9/14"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "933924853",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "9/13/14"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "572550618",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "11/25/13"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "607521903",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "4/5/10"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "177950036",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "4/29/17"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "293258845",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/14/15"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "683184659",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "8/23/10"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "247776305",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "11/30/10"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "207395112",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/26/12"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "952714908",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/25/14"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "694722020",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "10/3/10"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "414715278",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "11/4/15"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "714306008",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/17/13"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "465418040",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "2/26/16"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "860287702",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "9/11/13"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "461463820",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "8/20/16"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "151807725",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/29/13"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "884493243",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/2/13"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "533006703",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/23/11"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "641146934",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "10/4/12"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "573025262",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/14/11"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "663065516",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/9/13"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "866004025",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "3/4/17"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "306889617",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "10/21/10"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "431083619",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "8/10/14"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "954259860",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "6/4/15"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "312404668",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/21/16"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "611816871",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/16/10"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "879107797",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "11/2/13"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "211201274",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/9/10"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "925333631",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "7/25/15"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "909053695",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/27/10"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "370222795",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "6/11/16"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "487014758",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/30/13"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "257915914",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "10/6/13"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "551725089",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/10/10"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "957553613",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/10/14"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "234825313",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/23/16"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "363276517",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "7/9/10"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "692956054",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "6/23/17"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "194225251",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "6/19/13"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "607757937",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "4/5/10"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "594540441",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/30/12"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "685871589",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "4/5/15"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "133362710",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/23/14"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "958937633",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/5/17"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "304832684",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "9/6/11"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "783596694",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/24/10"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "128090989",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/27/15"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "641489398",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/28/14"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "647278249",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/16/14"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "339256370",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "3/31/11"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "431535089",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/19/16"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "808538234",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/16/16"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "975002133",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "4/7/13"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "505975615",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "7/4/15"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "396820008",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/20/16"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "813209140",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "7/10/13"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "641129338",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "5/14/14"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "636879432",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/3/15"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "277070748",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "7/2/14"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "908627116",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/24/13"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "798784863",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/2/17"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "985092818",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/17/10"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "325412309",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/7/10"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "447917163",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "6/24/16"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "801093709",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/5/13"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "903740775",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/23/14"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "794969689",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/13/10"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "584204280",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "1/1/13"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "901180875",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/26/10"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "645948302",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/29/12"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "138867890",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/22/15"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "670613467",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/21/10"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "452171361",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/27/14"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "464840400",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "2/5/11"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "410231912",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "10/24/14"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "960269725",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/22/15"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "607190167",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/18/17"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "613542068",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/11/16"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "962186753",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/12/17"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "806298053",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "10/24/11"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "719362294",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "12/3/10"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "445178306",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "9/22/13"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "247857415",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/15/13"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "461823451",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/4/14"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "141812741",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/24/17"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "212874114",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "8/17/16"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "320368897",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/2/10"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "179970920",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "6/25/15"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "927666509",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "7/17/12"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "169754493",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "1/20/17"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "532846200",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/20/15"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "213865458",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "7/13/13"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "630048596",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "9/3/11"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "568944442",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/24/14"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "238414323",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/27/12"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "816632068",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "9/19/15"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "402084004",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "10/5/13"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "763568961",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "6/7/15"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "590198266",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/1/15"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "441395747",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "8/19/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "496897733",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/21/10"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "106753051",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "11/14/11"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "941323029",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/27/16"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "241281497",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/3/14"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "267614781",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/12/16"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "651621711",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/16/10"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "644913613",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "9/7/15"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "469414317",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/19/16"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "867360150",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "7/1/15"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "851299941",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/1/11"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "854095017",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/4/11"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "478919208",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/27/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "749258840",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/5/14"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "958912742",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/28/12"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "921992242",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "3/4/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "522921168",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "3/2/17"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "166435849",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/7/13"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "327585113",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/23/13"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "201730287",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/19/12"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "854545199",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/9/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "272016179",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "11/8/10"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "110442054",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/20/14"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "746434152",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/5/16"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "826916301",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "1/7/17"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "419124829",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/19/13"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "560608565",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "8/24/14"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "109228837",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/7/13"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "693159472",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/5/11"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "860886800",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/23/13"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "131209647",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/3/12"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "343239343",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "7/13/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "706399714",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "7/19/10"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "950427091",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "9/14/10"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "875370299",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/28/14"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "801590669",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "3/15/11"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "219762027",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/28/14"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "940870702",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/21/10"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "346215522",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "5/4/14"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "837407815",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/20/16"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "386371409",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "7/19/14"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "185342633",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/24/13"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "596870315",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/18/17"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "703815782",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "1/7/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "559352862",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "6/4/10"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "736967885",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/12/11"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "980459678",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/9/15"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "653939568",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/6/14"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "991831386",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "1/29/16"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "148871457",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "7/6/17"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "850108611",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "2/25/15"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "940904176",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/7/14"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "136931979",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/13/15"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "474178349",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/26/16"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "458942115",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/29/16"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "917834603",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/13/17"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "947779643",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/5/16"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "166013562",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "11/26/15"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "960085189",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/13/11"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "837855851",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/8/15"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "977499377",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/12/10"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "377502095",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "3/3/14"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "806662833",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/27/13"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "954092919",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "5/11/17"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "479216182",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "4/26/11"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "461768949",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "12/30/10"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "251800048",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "5/22/14"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "619670808",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/25/13"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "606055057",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/23/11"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "671939122",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/14/13"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "448621833",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/3/14"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "987714517",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "9/11/17"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "711141002",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "6/14/16"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "361137616",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "4/18/12"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "750253188",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/21/11"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "511349046",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "1/2/15"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "147599017",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/28/11"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "682489430",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "5/23/15"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "509819114",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/23/14"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "343699395",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/2/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "968554103",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/8/11"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "989119565",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "1/6/14"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "880444610",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/31/12"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "737890565",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/15/16"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "727131259",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "8/9/14"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "634153020",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/11/15"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "315254676",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "9/8/14"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "147047555",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/3/10"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "576455485",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/13/13"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "770714795",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/26/10"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "867374312",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/3/11"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "624295365",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "6/23/10"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "769651782",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/3/13"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "751929891",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "8/1/14"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "989928519",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "4/11/10"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "622758996",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/1/14"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "659845149",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "1/29/16"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "830923306",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/5/11"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "936042296",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/17/10"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "395563447",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "3/30/15"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "500160586",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/7/11"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "360820043",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "7/2/15"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "958840644",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "6/2/10"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "195833718",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "4/7/11"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "543723094",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/2/14"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "494745099",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/30/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "411448562",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "6/30/10"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "276694810",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/16/17"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "143657672",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/8/17"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "585823476",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "1/6/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "446991050",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "1/16/17"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "891271722",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/22/17"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "453089320",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "6/16/10"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "887180173",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/18/10"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "418593108",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "3/25/14"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "492689454",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "8/16/10"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "825143039",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "12/20/16"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "751940190",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "10/10/13"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "579379737",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/26/16"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "234073007",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "11/20/11"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "612943828",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "3/1/13"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "433228528",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "12/21/12"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "282475936",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "11/28/15"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "368547379",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "7/12/12"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "969616687",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/28/13"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "184170186",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/17/15"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "681006705",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "6/14/11"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "249237573",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/21/12"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "348286616",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/13/17"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "257890164",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/29/11"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "228097045",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "6/17/17"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "129268586",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "6/21/17"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "802078616",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "12/9/15"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "907513463",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/19/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "976871955",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "8/31/10"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "261765420",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/17/12"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "784117686",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/17/16"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "586165082",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/27/17"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "480456435",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "12/16/12"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "899853074",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "10/26/11"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "547528827",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/15/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "446970021",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "5/9/16"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "791975486",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/20/16"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "496656548",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/29/14"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "345437037",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/30/13"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "743053281",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/23/15"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "364554107",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/18/12"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "205300843",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "12/3/12"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "430967319",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "10/5/15"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "827539861",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/1/12"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "351317298",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/14/15"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "278910958",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/4/13"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "157244670",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/15/17"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "953554761",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "7/28/15"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "105390059",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "8/25/16"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "970611894",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/10/14"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "677394092",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/29/16"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "474222981",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "10/26/15"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "779897391",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "5/5/16"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "733528649",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/30/17"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "444540584",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "8/2/14"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "542669522",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "9/11/12"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "827964293",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/1/13"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "720786225",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/15/12"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "611809146",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/1/16"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "512019383",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "12/12/12"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "502715766",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "8/17/14"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "285509622",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/28/13"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "532324779",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/3/15"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "635397565",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/21/15"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "957276809",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/4/11"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "580823838",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "3/21/14"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "459212481",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/16/16"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "265929067",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "5/23/13"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "644772422",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "10/26/11"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "959853875",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/4/12"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "645597255",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "10/25/12"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "556738889",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/25/12"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "718327605",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "11/10/13"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "775724732",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/20/15"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "444604098",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/31/10"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "860952031",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "5/13/11"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "531067359",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/20/17"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "281561410",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/2/14"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "109358012",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/10/17"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "531693494",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "8/6/10"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "336116683",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/4/13"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "630488908",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/30/17"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "792983996",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "12/2/16"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "722088277",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "7/3/16"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "386600577",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "1/29/10"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "275632226",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/18/15"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "948607051",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/27/15"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "785261380",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "5/26/13"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "935644042",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "5/15/13"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "370116364",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/17/14"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "829352176",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "8/26/13"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "974337804",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "8/7/15"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "436372077",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "1/3/15"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "267066323",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/19/15"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "688344371",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "4/28/17"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "642442548",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/2/14"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "941909682",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "8/1/14"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "219607102",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/13/16"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "778708636",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/2/10"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "942700612",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "6/6/10"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "905381858",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/8/11"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "480863702",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "1/28/10"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "453569972",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/19/16"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "328236997",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/10/16"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "579913604",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/23/11"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "403961122",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "3/20/10"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "866053378",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/22/17"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "852176702",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/13/10"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "218629920",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "10/20/15"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "242024362",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/17/16"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "469283854",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/16/14"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "967644727",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "4/30/13"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "974655807",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/23/14"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "248178422",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "3/22/12"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "416386401",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/16/13"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "927766072",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "6/20/17"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "401116263",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "3/31/15"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "675548303",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/6/12"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "960486018",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "7/4/13"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "985665738",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/19/14"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "551136291",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/13/17"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "877259004",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/16/17"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "554707705",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/19/14"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "494468724",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/23/10"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "777840888",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "10/23/11"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "206435525",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/27/17"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "352176463",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "12/5/15"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "607300031",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/14/13"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "434355056",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "9/28/13"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "716202867",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/20/11"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "606017291",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "6/12/16"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "677284657",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/15/15"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "673803794",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "7/29/14"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "859686028",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/10/15"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "669355189",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "9/26/15"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "957547605",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/21/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "849312102",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "11/23/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "890010011",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/14/12"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "795315158",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "10/26/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "801213872",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/28/17"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "314004981",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/9/10"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "160299813",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "4/6/10"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "337022197",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/22/14"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "461408460",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/15/16"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "221007430",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/10/11"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "723680436",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/20/14"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "447601306",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/11/13"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "191256368",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/9/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "823444449",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/30/16"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "133276879",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "10/17/10"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "480177485",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "2/7/15"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "243882596",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/11/15"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "574441039",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "4/6/17"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "442214143",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "5/3/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "687875735",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/2/11"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "872412145",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/25/13"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "627122199",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/29/12"
+    },
+    {
+        "Item Type": "Fruits",
+        "Order ID": "103617227",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "3/12/11"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "423821055",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/22/10"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "529970014",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "1/3/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "334612929",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/3/16"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "270611131",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/24/14"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "841138446",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "12/8/10"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "369681203",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "5/9/12"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "850038230",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/21/14"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "296320855",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "7/13/13"
+    },
+    {
+        "Item Type": "Cosmetics",
+        "Order ID": "392952907",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/13/11"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "644670712",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "3/21/11"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "626523101",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "2/16/12"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "433871400",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "7/1/15"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "232389438",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/8/12"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "708063542",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/19/16"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "817192542",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/22/16"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "936387765",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/29/12"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "612573039",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/9/11"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "812984693",
+        "Order Priority": "M",
+        "Sales Channel": "Online",
+        "Ship Date": "8/22/11"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "775171554",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/5/13"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "256994950",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "2/19/10"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "886628711",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/31/17"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "312559163",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "12/16/11"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "753585135",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "9/13/14"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "448817956",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/22/16"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "407681453",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "12/24/12"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "359911954",
+        "Order Priority": "H",
+        "Sales Channel": "Online",
+        "Ship Date": "6/23/16"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "105558288",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "8/19/13"
+    },
+    {
+        "Item Type": "Personal Care",
+        "Order ID": "864981782",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/11/15"
+    },
+    {
+        "Item Type": "Office Supplies",
+        "Order ID": "328856265",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "2/12/13"
+    },
+    {
+        "Item Type": "Clothes",
+        "Order ID": "308168065",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "10/18/16"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "884216010",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "11/2/16"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "858611428",
+        "Order Priority": "M",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/9/13"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "903278148",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "4/3/17"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "410452497",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "3/26/12"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "642683303",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "1/20/16"
+    },
+    {
+        "Item Type": "Beverages",
+        "Order ID": "682831895",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "3/16/17"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "584072101",
+        "Order Priority": "L",
+        "Sales Channel": "Online",
+        "Ship Date": "11/5/16"
+    },
+    {
+        "Item Type": "Meat",
+        "Order ID": "919890248",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/18/17"
+    },
+    {
+        "Item Type": "Snacks",
+        "Order ID": "534085166",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "4/25/10"
+    },
+    {
+        "Item Type": "Baby Food",
+        "Order ID": "590768182",
+        "Order Priority": "H",
+        "Sales Channel": "Offline",
+        "Ship Date": "9/7/11"
+    },
+    {
+        "Item Type": "Vegetables",
+        "Order ID": "524363124",
+        "Order Priority": "C",
+        "Sales Channel": "Online",
+        "Ship Date": "6/28/11"
+    },
+    {
+        "Item Type": "Household",
+        "Order ID": "289606320",
+        "Order Priority": "L",
+        "Sales Channel": "Offline",
+        "Ship Date": "2/14/16"
+    },
+    {
+        "Item Type": "Cereal",
+        "Order ID": "811546599",
+        "Order Priority": "C",
+        "Sales Channel": "Offline",
+        "Ship Date": "5/8/14"
+    }
+]

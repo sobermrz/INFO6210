@@ -1,0 +1,5002 @@
+[
+    {
+        "Country": "Libya",
+        "Order ID": "686800706",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Canada",
+        "Order ID": "185941302",
+        "Region": "North America"
+    },
+    {
+        "Country": "Libya",
+        "Order ID": "246222341",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Japan",
+        "Order ID": "161442649",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Chad",
+        "Order ID": "645713555",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Armenia",
+        "Order ID": "683458888",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Eritrea",
+        "Order ID": "679414975",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Montenegro",
+        "Order ID": "208630645",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Jamaica",
+        "Order ID": "266467225",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Fiji",
+        "Order ID": "118598544",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Togo",
+        "Order ID": "451010930",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Montenegro",
+        "Order ID": "220003211",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Greece",
+        "Order ID": "702186715",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Sudan",
+        "Order ID": "544485270",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Maldives",
+        "Order ID": "714135205",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Montenegro",
+        "Order ID": "448685348",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Estonia",
+        "Order ID": "405997025",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Greenland",
+        "Order ID": "414244067",
+        "Region": "North America"
+    },
+    {
+        "Country": "Cape Verde",
+        "Order ID": "821912801",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Senegal",
+        "Order ID": "247802054",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Federated States of Micronesia",
+        "Order ID": "531023156",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Bulgaria",
+        "Order ID": "880999934",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Algeria",
+        "Order ID": "127468717",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Mongolia",
+        "Order ID": "770478332",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Grenada",
+        "Order ID": "430390107",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Grenada",
+        "Order ID": "397877871",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Senegal",
+        "Order ID": "683927953",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Greenland",
+        "Order ID": "469839179",
+        "Region": "North America"
+    },
+    {
+        "Country": "Chad",
+        "Order ID": "357222878",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Mauritius ",
+        "Order ID": "118002879",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Morocco",
+        "Order ID": "944415509",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Honduras",
+        "Order ID": "499009597",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Benin",
+        "Order ID": "564646470",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Greece",
+        "Order ID": "294499957",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Jamaica",
+        "Order ID": "262056386",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "Order ID": "211114585",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Swaziland",
+        "Order ID": "405785882",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Trinidad and Tobago",
+        "Order ID": "280494105",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Sweden",
+        "Order ID": "689975583",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Belarus",
+        "Order ID": "759279143",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "Order ID": "133766114",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Mongolia",
+        "Order ID": "329110324",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Turkey",
+        "Order ID": "681298100",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Central African Republic",
+        "Order ID": "596628272",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "Order ID": "901712167",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Laos",
+        "Order ID": "693473613",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Armenia",
+        "Order ID": "489148938",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Greece",
+        "Order ID": "876286971",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Israel",
+        "Order ID": "262749040",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Bhutan",
+        "Order ID": "726708972",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Vanuatu",
+        "Order ID": "366653096",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Burundi",
+        "Order ID": "951380240",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Ukraine",
+        "Order ID": "270001733",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Croatia",
+        "Order ID": "681941401",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Madagascar",
+        "Order ID": "566935575",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Malaysia",
+        "Order ID": "175033080",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Uzbekistan",
+        "Order ID": "276595246",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Italy",
+        "Order ID": "812295901",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Nepal",
+        "Order ID": "443121373",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Fiji",
+        "Order ID": "600370490",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Portugal",
+        "Order ID": "535654580",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Panama",
+        "Order ID": "470897471",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Belarus",
+        "Order ID": "248335492",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Botswana",
+        "Order ID": "680517470",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Tanzania",
+        "Order ID": "400304734",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Romania",
+        "Order ID": "810871112",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Mali",
+        "Order ID": "235702931",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Central African Republic",
+        "Order ID": "668599021",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Niger",
+        "Order ID": "123670709",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Austria",
+        "Order ID": "285341823",
+        "Region": "Europe"
+    },
+    {
+        "Country": "India",
+        "Order ID": "658348691",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Luxembourg",
+        "Order ID": "817740142",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Cape Verde",
+        "Order ID": "858877503",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Sweden",
+        "Order ID": "947434604",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Iceland",
+        "Order ID": "869397771",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Qatar",
+        "Order ID": "481065833",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "South Sudan",
+        "Order ID": "159050118",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "United Kingdom",
+        "Order ID": "350274455",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Tunisia ",
+        "Order ID": "221975171",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "United States of America",
+        "Order ID": "811701095",
+        "Region": "North America"
+    },
+    {
+        "Country": "Liberia",
+        "Order ID": "977313554",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Eritrea",
+        "Order ID": "546986377",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "South Korea",
+        "Order ID": "769205892",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Kenya",
+        "Order ID": "262770926",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Rwanda",
+        "Order ID": "866792809",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Cuba",
+        "Order ID": "890695369",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Libya",
+        "Order ID": "964214932",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Czech Republic",
+        "Order ID": "887400329",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Montenegro",
+        "Order ID": "980612885",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Montenegro",
+        "Order ID": "734526431",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Philippines",
+        "Order ID": "160127294",
+        "Region": "Asia"
+    },
+    {
+        "Country": "El Salvador",
+        "Order ID": "238714301",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Tonga",
+        "Order ID": "671898782",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Democratic Republic of the Congo",
+        "Order ID": "331604564",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Afghanistan",
+        "Order ID": "410067975",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Tuvalu",
+        "Order ID": "369837844",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Sudan",
+        "Order ID": "193775498",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Niger",
+        "Order ID": "835054767",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Gabon",
+        "Order ID": "167161977",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "East Timor",
+        "Order ID": "633895957",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "United States of America",
+        "Order ID": "699368035",
+        "Region": "North America"
+    },
+    {
+        "Country": "Jordan",
+        "Order ID": "698002040",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Cyprus",
+        "Order ID": "584534299",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Malawi",
+        "Order ID": "384013640",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Iceland",
+        "Order ID": "641801393",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Israel",
+        "Order ID": "173571383",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Order ID": "115309941",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "China",
+        "Order ID": "773315894",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Kenya",
+        "Order ID": "274200570",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Somalia",
+        "Order ID": "414887797",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Tonga",
+        "Order ID": "812613904",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Bangladesh",
+        "Order ID": "254927718",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Egypt",
+        "Order ID": "749690568",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Eritrea",
+        "Order ID": "775076282",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Swaziland",
+        "Order ID": "229571187",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Vietnam",
+        "Order ID": "881974112",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Marshall Islands",
+        "Order ID": "521396386",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Taiwan",
+        "Order ID": "607261836",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Ireland",
+        "Order ID": "419306790",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Rwanda",
+        "Order ID": "207580077",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Sweden",
+        "Order ID": "742443025",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Gabon",
+        "Order ID": "164569461",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "South Africa",
+        "Order ID": "734945714",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "United Kingdom",
+        "Order ID": "284870612",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Albania",
+        "Order ID": "765955483",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Malaysia",
+        "Order ID": "600124156",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Ghana",
+        "Order ID": "529612958",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Cuba",
+        "Order ID": "466970717",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Saint Lucia",
+        "Order ID": "845058763",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Romania",
+        "Order ID": "367050921",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Portugal",
+        "Order ID": "956433522",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Macedonia",
+        "Order ID": "107005393",
+        "Region": "Europe"
+    },
+    {
+        "Country": "China",
+        "Order ID": "332877862",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Germany",
+        "Order ID": "618474757",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Ireland",
+        "Order ID": "468532407",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Poland",
+        "Order ID": "358099639",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Namibia",
+        "Order ID": "382537782",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Uzbekistan",
+        "Order ID": "707520663",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Order ID": "219034612",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Mongolia",
+        "Order ID": "573378455",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Norway",
+        "Order ID": "347163522",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Oman",
+        "Order ID": "887313640",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Serbia",
+        "Order ID": "461065137",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Democratic Republic of the Congo",
+        "Order ID": "105966842",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Bulgaria",
+        "Order ID": "479880082",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Brunei",
+        "Order ID": "510978686",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Serbia",
+        "Order ID": "547748982",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Ghana",
+        "Order ID": "108989799",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Malawi",
+        "Order ID": "133812463",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Order ID": "731640803",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Cyprus",
+        "Order ID": "732211148",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Nicaragua",
+        "Order ID": "835572326",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Estonia",
+        "Order ID": "462085664",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Estonia",
+        "Order ID": "902424991",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Lithuania",
+        "Order ID": "367576634",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Republic of the Congo",
+        "Order ID": "738839423",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Czech Republic",
+        "Order ID": "817824685",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Cameroon",
+        "Order ID": "376456248",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Vietnam",
+        "Order ID": "606970441",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Moldova ",
+        "Order ID": "971916091",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Bahrain",
+        "Order ID": "554154527",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Hungary",
+        "Order ID": "306859576",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Marshall Islands",
+        "Order ID": "803517568",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Iraq",
+        "Order ID": "887927329",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Albania",
+        "Order ID": "824200189",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Lesotho",
+        "Order ID": "946759974",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Lebanon",
+        "Order ID": "310343015",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Hungary",
+        "Order ID": "739998137",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Japan",
+        "Order ID": "981086671",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Georgia",
+        "Order ID": "749282443",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Estonia",
+        "Order ID": "280571782",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Luxembourg",
+        "Order ID": "781253516",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Swaziland",
+        "Order ID": "377938973",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Romania",
+        "Order ID": "867551982",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Ethiopia",
+        "Order ID": "967328870",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Chad",
+        "Order ID": "364818465",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Morocco",
+        "Order ID": "167882096",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Mexico",
+        "Order ID": "654693591",
+        "Region": "North America"
+    },
+    {
+        "Country": "Nigeria",
+        "Order ID": "823739278",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Trinidad and Tobago",
+        "Order ID": "643817985",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Moldova ",
+        "Order ID": "604041039",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Solomon Islands",
+        "Order ID": "363832271",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "India",
+        "Order ID": "102928006",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Burkina Faso",
+        "Order ID": "971377074",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Kiribati",
+        "Order ID": "139540803",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Israel",
+        "Order ID": "248093020",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Comoros",
+        "Order ID": "858020055",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Iran",
+        "Order ID": "700620734",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Vietnam",
+        "Order ID": "827506387",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Belize",
+        "Order ID": "560600841",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Belarus",
+        "Order ID": "642140424",
+        "Region": "Europe"
+    },
+    {
+        "Country": "United States of America",
+        "Order ID": "984673964",
+        "Region": "North America"
+    },
+    {
+        "Country": "Poland",
+        "Order ID": "221062791",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Canada",
+        "Order ID": "654480731",
+        "Region": "North America"
+    },
+    {
+        "Country": "Israel",
+        "Order ID": "608414113",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Lebanon",
+        "Order ID": "276661765",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Andorra",
+        "Order ID": "373335015",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Slovakia",
+        "Order ID": "782857692",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Liberia",
+        "Order ID": "109966123",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Antigua and Barbuda ",
+        "Order ID": "629709136",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "China",
+        "Order ID": "637448060",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Niger",
+        "Order ID": "298856723",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "United Kingdom",
+        "Order ID": "299921452",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Bangladesh",
+        "Order ID": "496941077",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Myanmar",
+        "Order ID": "366526925",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Tonga",
+        "Order ID": "355602824",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "Order ID": "531405103",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Nauru",
+        "Order ID": "131482589",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Swaziland",
+        "Order ID": "713696610",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Finland",
+        "Order ID": "306220996",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Order ID": "157542073",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Mauritius ",
+        "Order ID": "686458671",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Mozambique",
+        "Order ID": "132082116",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Bulgaria",
+        "Order ID": "403836238",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Spain",
+        "Order ID": "331457364",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Vanuatu",
+        "Order ID": "614994323",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Belgium",
+        "Order ID": "674808442",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Belgium",
+        "Order ID": "901573550",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "Order ID": "406275975",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Togo",
+        "Order ID": "170214545",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Cote d'Ivoire",
+        "Order ID": "795000588",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Republic of the Congo",
+        "Order ID": "252557933",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Libya",
+        "Order ID": "635122907",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "East Timor",
+        "Order ID": "505244338",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Switzerland",
+        "Order ID": "745783555",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Palau",
+        "Order ID": "509914386",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Jordan",
+        "Order ID": "371123158",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Slovenia",
+        "Order ID": "973208701",
+        "Region": "Europe"
+    },
+    {
+        "Country": "South Korea",
+        "Order ID": "780282342",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Norway",
+        "Order ID": "126767909",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Afghanistan",
+        "Order ID": "767401731",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Bangladesh",
+        "Order ID": "927232635",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Guinea",
+        "Order ID": "251621949",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Cuba",
+        "Order ID": "256243503",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Russia",
+        "Order ID": "277083623",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Seychelles ",
+        "Order ID": "620441138",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "South Korea",
+        "Order ID": "312927377",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Ghana",
+        "Order ID": "251466166",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Costa Rica",
+        "Order ID": "953293836",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Romania",
+        "Order ID": "305959212",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Czech Republic",
+        "Order ID": "317323625",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Liechtenstein",
+        "Order ID": "365560901",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Seychelles ",
+        "Order ID": "349157369",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Somalia",
+        "Order ID": "236911857",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Solomon Islands",
+        "Order ID": "517935693",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Uganda",
+        "Order ID": "851652705",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "Order ID": "517799222",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Costa Rica",
+        "Order ID": "666424071",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Moldova ",
+        "Order ID": "267888581",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Burkina Faso",
+        "Order ID": "162866580",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Guatemala",
+        "Order ID": "812344396",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Swaziland",
+        "Order ID": "947620856",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Maldives",
+        "Order ID": "720307290",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Thailand",
+        "Order ID": "352327525",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Sudan",
+        "Order ID": "585917890",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Costa Rica",
+        "Order ID": "433627212",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Denmark",
+        "Order ID": "328316819",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Angola",
+        "Order ID": "773160541",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Order ID": "991644704",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "North Korea",
+        "Order ID": "277568137",
+        "Region": "Asia"
+    },
+    {
+        "Country": "El Salvador",
+        "Order ID": "245042169",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Burkina Faso",
+        "Order ID": "778490626",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Yemen",
+        "Order ID": "482649838",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Republic of the Congo",
+        "Order ID": "732568633",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Andorra",
+        "Order ID": "723608338",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Order ID": "621442782",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Israel",
+        "Order ID": "212058293",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Solomon Islands",
+        "Order ID": "251753699",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Liberia",
+        "Order ID": "217140328",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Mali",
+        "Order ID": "555142009",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Uzbekistan",
+        "Order ID": "432995069",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Tunisia ",
+        "Order ID": "888248336",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Vatican City",
+        "Order ID": "778763139",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Djibouti",
+        "Order ID": "832713305",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Ukraine",
+        "Order ID": "498585164",
+        "Region": "Europe"
+    },
+    {
+        "Country": "East Timor",
+        "Order ID": "195177543",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Uganda",
+        "Order ID": "861601769",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Guinea",
+        "Order ID": "807281672",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "Order ID": "661953580",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Malta",
+        "Order ID": "225666320",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Cyprus",
+        "Order ID": "718781220",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Czech Republic",
+        "Order ID": "731972110",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Libya",
+        "Order ID": "276225316",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Vietnam",
+        "Order ID": "332839667",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Jordan",
+        "Order ID": "603426492",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Mali",
+        "Order ID": "859909617",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Czech Republic",
+        "Order ID": "494525372",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Slovakia",
+        "Order ID": "769822585",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Order ID": "768662583",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Honduras",
+        "Order ID": "544219195",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Switzerland",
+        "Order ID": "669978749",
+        "Region": "Europe"
+    },
+    {
+        "Country": "South Africa",
+        "Order ID": "889740073",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Uganda",
+        "Order ID": "567614495",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Iran",
+        "Order ID": "938025844",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Algeria",
+        "Order ID": "155710446",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Central African Republic",
+        "Order ID": "945717132",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "The Bahamas",
+        "Order ID": "253407227",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "South Africa",
+        "Order ID": "494454562",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Benin",
+        "Order ID": "104845464",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Hungary",
+        "Order ID": "290878760",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Austria",
+        "Order ID": "979165780",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Tajikistan",
+        "Order ID": "366630351",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Portugal",
+        "Order ID": "770508801",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Belgium",
+        "Order ID": "978349959",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Slovenia",
+        "Order ID": "298015153",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Czech Republic",
+        "Order ID": "807678210",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Marshall Islands",
+        "Order ID": "605825459",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Sudan",
+        "Order ID": "561255729",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Order ID": "263080346",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Tanzania",
+        "Order ID": "270723140",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Switzerland",
+        "Order ID": "763920438",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Greenland",
+        "Order ID": "192721068",
+        "Region": "North America"
+    },
+    {
+        "Country": "Tonga",
+        "Order ID": "227486360",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Order ID": "808890140",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Belize",
+        "Order ID": "597918736",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Angola",
+        "Order ID": "125870978",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Malaysia",
+        "Order ID": "444358193",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Ethiopia",
+        "Order ID": "875304210",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Greenland",
+        "Order ID": "360945355",
+        "Region": "North America"
+    },
+    {
+        "Country": "Benin",
+        "Order ID": "613830459",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Yemen",
+        "Order ID": "266820847",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Rwanda",
+        "Order ID": "723090350",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Mauritania",
+        "Order ID": "306125295",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "New Zealand",
+        "Order ID": "109724509",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Samoa ",
+        "Order ID": "847999322",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Fiji",
+        "Order ID": "605373561",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Malawi",
+        "Order ID": "686583554",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Marshall Islands",
+        "Order ID": "666678130",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Grenada",
+        "Order ID": "641018617",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Luxembourg",
+        "Order ID": "775278842",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Order ID": "855445134",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "China",
+        "Order ID": "737816321",
+        "Region": "Asia"
+    },
+    {
+        "Country": "United States of America",
+        "Order ID": "799003732",
+        "Region": "North America"
+    },
+    {
+        "Country": "Central African Republic",
+        "Order ID": "585931193",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Antigua and Barbuda ",
+        "Order ID": "165835034",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Guatemala",
+        "Order ID": "576264083",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Qatar",
+        "Order ID": "675079667",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Israel",
+        "Order ID": "290455615",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Thailand",
+        "Order ID": "670878255",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Singapore",
+        "Order ID": "435146415",
+        "Region": "Asia"
+    },
+    {
+        "Country": "North Korea",
+        "Order ID": "522371423",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Austria",
+        "Order ID": "141977107",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Japan",
+        "Order ID": "823699796",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Order ID": "567588317",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Lithuania",
+        "Order ID": "594003999",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Luxembourg",
+        "Order ID": "393620669",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Central African Republic",
+        "Order ID": "877424657",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Norway",
+        "Order ID": "326714789",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Democratic Republic of the Congo",
+        "Order ID": "243102395",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "New Zealand",
+        "Order ID": "398511302",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Ukraine",
+        "Order ID": "185177838",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Taiwan",
+        "Order ID": "865650832",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Italy",
+        "Order ID": "622791612",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Finland",
+        "Order ID": "409774005",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Sudan",
+        "Order ID": "800084340",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Croatia",
+        "Order ID": "637521445",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Mauritania",
+        "Order ID": "186196649",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "New Zealand",
+        "Order ID": "680533778",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Pakistan",
+        "Order ID": "275269162",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Poland",
+        "Order ID": "795451629",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Lithuania",
+        "Order ID": "986442506",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Pakistan",
+        "Order ID": "563915622",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "East Timor",
+        "Order ID": "663857305",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Marshall Islands",
+        "Order ID": "692566382",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Cuba",
+        "Order ID": "576654183",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Greenland",
+        "Order ID": "313044536",
+        "Region": "North America"
+    },
+    {
+        "Country": "Luxembourg",
+        "Order ID": "418973767",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Israel",
+        "Order ID": "581990706",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Djibouti",
+        "Order ID": "109956681",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Bulgaria",
+        "Order ID": "181045520",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Mongolia",
+        "Order ID": "693743550",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Order ID": "716849601",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Yemen",
+        "Order ID": "739474999",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Federated States of Micronesia",
+        "Order ID": "421043574",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Finland",
+        "Order ID": "841291654",
+        "Region": "Europe"
+    },
+    {
+        "Country": "The Bahamas",
+        "Order ID": "450268065",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Grenada",
+        "Order ID": "918334138",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Sao Tome and Principe",
+        "Order ID": "386163699",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "El Salvador",
+        "Order ID": "214743077",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Sweden",
+        "Order ID": "935371100",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Turkmenistan",
+        "Order ID": "899659097",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Monaco",
+        "Order ID": "329530894",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Turkey",
+        "Order ID": "867222821",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Mozambique",
+        "Order ID": "625283706",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Yemen",
+        "Order ID": "936574876",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Philippines",
+        "Order ID": "504270160",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Democratic Republic of the Congo",
+        "Order ID": "351855885",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Fiji",
+        "Order ID": "673130881",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Macedonia",
+        "Order ID": "382206475",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Tunisia ",
+        "Order ID": "263506495",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Liechtenstein",
+        "Order ID": "721767270",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Qatar",
+        "Order ID": "432037627",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Tonga",
+        "Order ID": "389678895",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Belgium",
+        "Order ID": "760364902",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Chad",
+        "Order ID": "430081975",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Thailand",
+        "Order ID": "155128943",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Iceland",
+        "Order ID": "312117135",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Saint Lucia",
+        "Order ID": "447970378",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Japan",
+        "Order ID": "629925000",
+        "Region": "Asia"
+    },
+    {
+        "Country": "India",
+        "Order ID": "995529830",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Vanuatu",
+        "Order ID": "402646195",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Chad",
+        "Order ID": "479447925",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Malawi",
+        "Order ID": "674421346",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Finland",
+        "Order ID": "506365287",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Turkey",
+        "Order ID": "914391076",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "South Africa",
+        "Order ID": "207922542",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Lithuania",
+        "Order ID": "816696012",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Russia",
+        "Order ID": "740760314",
+        "Region": "Europe"
+    },
+    {
+        "Country": "The Bahamas",
+        "Order ID": "300476777",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "The Bahamas",
+        "Order ID": "786519229",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Turkey",
+        "Order ID": "409873998",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Mauritius ",
+        "Order ID": "151839911",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Bulgaria",
+        "Order ID": "614028298",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Iran",
+        "Order ID": "668362987",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Ghana",
+        "Order ID": "607080304",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Malawi",
+        "Order ID": "792729079",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Order ID": "308170640",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Tajikistan",
+        "Order ID": "106578814",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Czech Republic",
+        "Order ID": "761439931",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Mauritius ",
+        "Order ID": "216552817",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Lesotho",
+        "Order ID": "536028802",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Mali",
+        "Order ID": "254291713",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Georgia",
+        "Order ID": "226077878",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Albania",
+        "Order ID": "476436126",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Cyprus",
+        "Order ID": "650727784",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Saint Kitts and Nevis ",
+        "Order ID": "464626681",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Tunisia ",
+        "Order ID": "154119145",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Cuba",
+        "Order ID": "925504004",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Kiribati",
+        "Order ID": "905392587",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Cambodia",
+        "Order ID": "990708720",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Moldova ",
+        "Order ID": "798688733",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Uzbekistan",
+        "Order ID": "916881453",
+        "Region": "Asia"
+    },
+    {
+        "Country": "India",
+        "Order ID": "653148210",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Germany",
+        "Order ID": "285662829",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Austria",
+        "Order ID": "612911641",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Germany",
+        "Order ID": "703693473",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Bhutan",
+        "Order ID": "147119653",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Order ID": "402614009",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Somalia",
+        "Order ID": "749912869",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Saint Lucia",
+        "Order ID": "539065062",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Armenia",
+        "Order ID": "540431916",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Canada",
+        "Order ID": "694687259",
+        "Region": "North America"
+    },
+    {
+        "Country": "Burundi",
+        "Order ID": "562817418",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Liechtenstein",
+        "Order ID": "676121222",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Tunisia ",
+        "Order ID": "286210000",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Iraq",
+        "Order ID": "515007579",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Indonesia",
+        "Order ID": "304750287",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Kazakhstan",
+        "Order ID": "467986953",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Denmark",
+        "Order ID": "537578904",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Luxembourg",
+        "Order ID": "116699969",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Cape Verde",
+        "Order ID": "228836476",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Palau",
+        "Order ID": "167787253",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Australia",
+        "Order ID": "647663629",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Nicaragua",
+        "Order ID": "652889430",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Laos",
+        "Order ID": "588200986",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Cuba",
+        "Order ID": "928647124",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Moldova ",
+        "Order ID": "869589173",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Syria",
+        "Order ID": "576700961",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "The Bahamas",
+        "Order ID": "735968816",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Belarus",
+        "Order ID": "303691565",
+        "Region": "Europe"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Order ID": "556480538",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Angola",
+        "Order ID": "141259562",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Cuba",
+        "Order ID": "925264966",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Ukraine",
+        "Order ID": "346045577",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Mozambique",
+        "Order ID": "861462724",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Armenia",
+        "Order ID": "499690234",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Greenland",
+        "Order ID": "509214437",
+        "Region": "North America"
+    },
+    {
+        "Country": "Saint Kitts and Nevis ",
+        "Order ID": "408834159",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Vatican City",
+        "Order ID": "237660729",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Ukraine",
+        "Order ID": "105117976",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Niger",
+        "Order ID": "640942227",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Myanmar",
+        "Order ID": "745182311",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Guinea",
+        "Order ID": "738199555",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "Order ID": "110667788",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "South Sudan",
+        "Order ID": "673573338",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Turkey",
+        "Order ID": "708215034",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Palau",
+        "Order ID": "816204202",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Poland",
+        "Order ID": "769464671",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Malaysia",
+        "Order ID": "860232770",
+        "Region": "Asia"
+    },
+    {
+        "Country": "United States of America",
+        "Order ID": "551057326",
+        "Region": "North America"
+    },
+    {
+        "Country": "Switzerland",
+        "Order ID": "724799668",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Order ID": "534633624",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Namibia",
+        "Order ID": "554045522",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Ireland",
+        "Order ID": "526834189",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Mozambique",
+        "Order ID": "717110955",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Democratic Republic of the Congo",
+        "Order ID": "559299647",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "United States of America",
+        "Order ID": "908136594",
+        "Region": "North America"
+    },
+    {
+        "Country": "Azerbaijan",
+        "Order ID": "888670623",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Belgium",
+        "Order ID": "146263062",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Taiwan",
+        "Order ID": "196587741",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Panama",
+        "Order ID": "375630986",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Andorra",
+        "Order ID": "989691627",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Georgia",
+        "Order ID": "165380990",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Barbados",
+        "Order ID": "599622905",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Sweden",
+        "Order ID": "109653699",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Algeria",
+        "Order ID": "183022201",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Italy",
+        "Order ID": "127589738",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Russia",
+        "Order ID": "221530139",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Antigua and Barbuda ",
+        "Order ID": "363329732",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Jordan",
+        "Order ID": "521787345",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Mali",
+        "Order ID": "286014306",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Somalia",
+        "Order ID": "215434443",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Kuwait",
+        "Order ID": "489784085",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Liberia",
+        "Order ID": "459112060",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "China",
+        "Order ID": "893779695",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Andorra",
+        "Order ID": "834460818",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Niger",
+        "Order ID": "742141759",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Hungary",
+        "Order ID": "248121345",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Monaco",
+        "Order ID": "404010903",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Tuvalu",
+        "Order ID": "531734263",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "South Sudan",
+        "Order ID": "473527753",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Cyprus",
+        "Order ID": "141940200",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Poland",
+        "Order ID": "869832932",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Liberia",
+        "Order ID": "460379779",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Cote d'Ivoire",
+        "Order ID": "837067067",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Order ID": "393693625",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Slovakia",
+        "Order ID": "744370782",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Malaysia",
+        "Order ID": "873522365",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Liberia",
+        "Order ID": "285884702",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Vanuatu",
+        "Order ID": "356506621",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Kiribati",
+        "Order ID": "280749452",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Turkey",
+        "Order ID": "224287021",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "San Marino",
+        "Order ID": "873105657",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Vatican City",
+        "Order ID": "283504188",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Morocco",
+        "Order ID": "632093942",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "Order ID": "565798747",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Jordan",
+        "Order ID": "151854932",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Order ID": "427811324",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Republic of the Congo",
+        "Order ID": "251529252",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "East Timor",
+        "Order ID": "351182544",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Estonia",
+        "Order ID": "175257527",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Bangladesh",
+        "Order ID": "142553031",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Senegal",
+        "Order ID": "292180383",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Pakistan",
+        "Order ID": "733563411",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Czech Republic",
+        "Order ID": "296438443",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Ghana",
+        "Order ID": "580854308",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Japan",
+        "Order ID": "107172334",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Kazakhstan",
+        "Order ID": "166066348",
+        "Region": "Asia"
+    },
+    {
+        "Country": "The Bahamas",
+        "Order ID": "768522679",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Ethiopia",
+        "Order ID": "195840156",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Burkina Faso",
+        "Order ID": "849630105",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Madagascar",
+        "Order ID": "701816356",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Netherlands",
+        "Order ID": "944635236",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Greece",
+        "Order ID": "140635573",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Egypt",
+        "Order ID": "972678697",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "South Sudan",
+        "Order ID": "793938434",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Kosovo",
+        "Order ID": "177901113",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Brunei",
+        "Order ID": "668365561",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Australia",
+        "Order ID": "729443109",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Cape Verde",
+        "Order ID": "695557582",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Malawi",
+        "Order ID": "521445310",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Philippines",
+        "Order ID": "232155120",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Estonia",
+        "Order ID": "373048341",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Trinidad and Tobago",
+        "Order ID": "659798800",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Mongolia",
+        "Order ID": "428392827",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Japan",
+        "Order ID": "885129249",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Niger",
+        "Order ID": "156619393",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Egypt",
+        "Order ID": "939787089",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Saint Lucia",
+        "Order ID": "151868665",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Qatar",
+        "Order ID": "180412948",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Mali",
+        "Order ID": "333281266",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Saint Lucia",
+        "Order ID": "888647449",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Swaziland",
+        "Order ID": "844997823",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Mongolia",
+        "Order ID": "171131217",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Botswana",
+        "Order ID": "256158959",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "San Marino",
+        "Order ID": "759504878",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Oman",
+        "Order ID": "960905301",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Bangladesh",
+        "Order ID": "210409057",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Namibia",
+        "Order ID": "178377473",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Mongolia",
+        "Order ID": "805484378",
+        "Region": "Asia"
+    },
+    {
+        "Country": "North Korea",
+        "Order ID": "752716100",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Latvia",
+        "Order ID": "551371467",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Burundi",
+        "Order ID": "353061807",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Seychelles ",
+        "Order ID": "379710948",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Kenya",
+        "Order ID": "473555219",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Benin",
+        "Order ID": "547143447",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Saint Lucia",
+        "Order ID": "133336961",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Qatar",
+        "Order ID": "635309588",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Mozambique",
+        "Order ID": "376547658",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Pakistan",
+        "Order ID": "450849997",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Taiwan",
+        "Order ID": "672327935",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Cuba",
+        "Order ID": "925405299",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Cuba",
+        "Order ID": "714818418",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Russia",
+        "Order ID": "515616118",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Switzerland",
+        "Order ID": "423159730",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Czech Republic",
+        "Order ID": "603123080",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Poland",
+        "Order ID": "841492497",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Mauritius ",
+        "Order ID": "994566810",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Pakistan",
+        "Order ID": "538957345",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "South Africa",
+        "Order ID": "821587932",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Seychelles ",
+        "Order ID": "109694898",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Benin",
+        "Order ID": "340827071",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Benin",
+        "Order ID": "372845780",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Nicaragua",
+        "Order ID": "933924853",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Lebanon",
+        "Order ID": "572550618",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Moldova ",
+        "Order ID": "607521903",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Tunisia ",
+        "Order ID": "177950036",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Vanuatu",
+        "Order ID": "293258845",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "South Sudan",
+        "Order ID": "683184659",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Sweden",
+        "Order ID": "247776305",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Ireland",
+        "Order ID": "207395112",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Italy",
+        "Order ID": "952714908",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Order ID": "694722020",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Order ID": "414715278",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Poland",
+        "Order ID": "714306008",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Kuwait",
+        "Order ID": "465418040",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Sudan",
+        "Order ID": "860287702",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Order ID": "461463820",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Swaziland",
+        "Order ID": "151807725",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Rwanda",
+        "Order ID": "884493243",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Cambodia",
+        "Order ID": "533006703",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Central African Republic",
+        "Order ID": "641146934",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Maldives",
+        "Order ID": "573025262",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Djibouti",
+        "Order ID": "663065516",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Tajikistan",
+        "Order ID": "866004025",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Sri Lanka",
+        "Order ID": "306889617",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Montenegro",
+        "Order ID": "431083619",
+        "Region": "Europe"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Order ID": "954259860",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Order ID": "312404668",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Seychelles ",
+        "Order ID": "611816871",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Iceland",
+        "Order ID": "879107797",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Nigeria",
+        "Order ID": "211201274",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Rwanda",
+        "Order ID": "925333631",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Hungary",
+        "Order ID": "909053695",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Belarus",
+        "Order ID": "370222795",
+        "Region": "Europe"
+    },
+    {
+        "Country": "South Sudan",
+        "Order ID": "487014758",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Andorra",
+        "Order ID": "257915914",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Japan",
+        "Order ID": "551725089",
+        "Region": "Asia"
+    },
+    {
+        "Country": "El Salvador",
+        "Order ID": "957553613",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Kenya",
+        "Order ID": "234825313",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Order ID": "363276517",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Andorra",
+        "Order ID": "692956054",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Cape Verde",
+        "Order ID": "194225251",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Nauru",
+        "Order ID": "607757937",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Czech Republic",
+        "Order ID": "594540441",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Serbia",
+        "Order ID": "685871589",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Tuvalu",
+        "Order ID": "133362710",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Madagascar",
+        "Order ID": "958937633",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Ethiopia",
+        "Order ID": "304832684",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Malaysia",
+        "Order ID": "783596694",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Tanzania",
+        "Order ID": "128090989",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Cote d'Ivoire",
+        "Order ID": "641489398",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Solomon Islands",
+        "Order ID": "647278249",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Netherlands",
+        "Order ID": "339256370",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Mali",
+        "Order ID": "431535089",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Afghanistan",
+        "Order ID": "808538234",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Moldova ",
+        "Order ID": "975002133",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Bhutan",
+        "Order ID": "505975615",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Vietnam",
+        "Order ID": "396820008",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Portugal",
+        "Order ID": "813209140",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Spain",
+        "Order ID": "641129338",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Egypt",
+        "Order ID": "636879432",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Belgium",
+        "Order ID": "277070748",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Malaysia",
+        "Order ID": "908627116",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Order ID": "798784863",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Estonia",
+        "Order ID": "985092818",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Burundi",
+        "Order ID": "325412309",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Latvia",
+        "Order ID": "447917163",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Tajikistan",
+        "Order ID": "801093709",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Order ID": "903740775",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Comoros",
+        "Order ID": "794969689",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Namibia",
+        "Order ID": "584204280",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Slovenia",
+        "Order ID": "901180875",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Bulgaria",
+        "Order ID": "645948302",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "Order ID": "138867890",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Lesotho",
+        "Order ID": "670613467",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Sri Lanka",
+        "Order ID": "452171361",
+        "Region": "Asia"
+    },
+    {
+        "Country": "East Timor",
+        "Order ID": "464840400",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Belarus",
+        "Order ID": "410231912",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Benin",
+        "Order ID": "960269725",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Ireland",
+        "Order ID": "607190167",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Iran",
+        "Order ID": "613542068",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Benin",
+        "Order ID": "962186753",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "South Sudan",
+        "Order ID": "806298053",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Comoros",
+        "Order ID": "719362294",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Poland",
+        "Order ID": "445178306",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Order ID": "247857415",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Namibia",
+        "Order ID": "461823451",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Spain",
+        "Order ID": "141812741",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Iran",
+        "Order ID": "212874114",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Guatemala",
+        "Order ID": "320368897",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "East Timor",
+        "Order ID": "179970920",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Bahrain",
+        "Order ID": "927666509",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Ethiopia",
+        "Order ID": "169754493",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Solomon Islands",
+        "Order ID": "532846200",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Belize",
+        "Order ID": "213865458",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Sri Lanka",
+        "Order ID": "630048596",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Costa Rica",
+        "Order ID": "568944442",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Nigeria",
+        "Order ID": "238414323",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Iran",
+        "Order ID": "816632068",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Djibouti",
+        "Order ID": "402084004",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "South Korea",
+        "Order ID": "763568961",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Dominica",
+        "Order ID": "590198266",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Vietnam",
+        "Order ID": "441395747",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Norway",
+        "Order ID": "496897733",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Haiti",
+        "Order ID": "106753051",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Jamaica",
+        "Order ID": "941323029",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Sudan",
+        "Order ID": "241281497",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Angola",
+        "Order ID": "267614781",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Panama",
+        "Order ID": "651621711",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Greece",
+        "Order ID": "644913613",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Madagascar",
+        "Order ID": "469414317",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "Order ID": "867360150",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Greenland",
+        "Order ID": "851299941",
+        "Region": "North America"
+    },
+    {
+        "Country": "Libya",
+        "Order ID": "854095017",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Belarus",
+        "Order ID": "478919208",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Lebanon",
+        "Order ID": "749258840",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Djibouti",
+        "Order ID": "958912742",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Barbados",
+        "Order ID": "921992242",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "Order ID": "522921168",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Finland",
+        "Order ID": "166435849",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Haiti",
+        "Order ID": "327585113",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Niger",
+        "Order ID": "201730287",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Trinidad and Tobago",
+        "Order ID": "854545199",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Grenada",
+        "Order ID": "272016179",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Order ID": "110442054",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Monaco",
+        "Order ID": "746434152",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Estonia",
+        "Order ID": "826916301",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Italy",
+        "Order ID": "419124829",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Malaysia",
+        "Order ID": "560608565",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Ghana",
+        "Order ID": "109228837",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Pakistan",
+        "Order ID": "693159472",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Sri Lanka",
+        "Order ID": "860886800",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Romania",
+        "Order ID": "131209647",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Qatar",
+        "Order ID": "343239343",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Cote d'Ivoire",
+        "Order ID": "706399714",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Egypt",
+        "Order ID": "950427091",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Iran",
+        "Order ID": "875370299",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Somalia",
+        "Order ID": "801590669",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Syria",
+        "Order ID": "219762027",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Solomon Islands",
+        "Order ID": "940870702",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Guatemala",
+        "Order ID": "346215522",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Kuwait",
+        "Order ID": "837407815",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Jordan",
+        "Order ID": "386371409",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Marshall Islands",
+        "Order ID": "185342633",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Egypt",
+        "Order ID": "596870315",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Switzerland",
+        "Order ID": "703815782",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Samoa ",
+        "Order ID": "559352862",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Portugal",
+        "Order ID": "736967885",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Albania",
+        "Order ID": "980459678",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Dominica",
+        "Order ID": "653939568",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Tuvalu",
+        "Order ID": "991831386",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Marshall Islands",
+        "Order ID": "148871457",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Bulgaria",
+        "Order ID": "850108611",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Niger",
+        "Order ID": "940904176",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Saint Vincent and the Grenadines",
+        "Order ID": "136931979",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Malawi",
+        "Order ID": "474178349",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Cape Verde",
+        "Order ID": "458942115",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Saint Vincent and the Grenadines",
+        "Order ID": "917834603",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Greece",
+        "Order ID": "947779643",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Monaco",
+        "Order ID": "166013562",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Nigeria",
+        "Order ID": "960085189",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Norway",
+        "Order ID": "837855851",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Greenland",
+        "Order ID": "977499377",
+        "Region": "North America"
+    },
+    {
+        "Country": "Tunisia ",
+        "Order ID": "377502095",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Uzbekistan",
+        "Order ID": "806662833",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Saint Kitts and Nevis ",
+        "Order ID": "954092919",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Belize",
+        "Order ID": "479216182",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Angola",
+        "Order ID": "461768949",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Bhutan",
+        "Order ID": "251800048",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Honduras",
+        "Order ID": "619670808",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "South Sudan",
+        "Order ID": "606055057",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Order ID": "671939122",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Sao Tome and Principe",
+        "Order ID": "448621833",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Madagascar",
+        "Order ID": "987714517",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Senegal",
+        "Order ID": "711141002",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Sierra Leone",
+        "Order ID": "361137616",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Malaysia",
+        "Order ID": "750253188",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Cuba",
+        "Order ID": "511349046",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Order ID": "147599017",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Serbia",
+        "Order ID": "682489430",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Maldives",
+        "Order ID": "509819114",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Ireland",
+        "Order ID": "343699395",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Romania",
+        "Order ID": "968554103",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Croatia",
+        "Order ID": "989119565",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Albania",
+        "Order ID": "880444610",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Order ID": "737890565",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Order ID": "727131259",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Ghana",
+        "Order ID": "634153020",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Laos",
+        "Order ID": "315254676",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Panama",
+        "Order ID": "147047555",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Angola",
+        "Order ID": "576455485",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Syria",
+        "Order ID": "770714795",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Sierra Leone",
+        "Order ID": "867374312",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Uganda",
+        "Order ID": "624295365",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Taiwan",
+        "Order ID": "769651782",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Azerbaijan",
+        "Order ID": "751929891",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Maldives",
+        "Order ID": "989928519",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Mauritania",
+        "Order ID": "622758996",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Burundi",
+        "Order ID": "659845149",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Zambia",
+        "Order ID": "830923306",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Singapore",
+        "Order ID": "936042296",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Ghana",
+        "Order ID": "395563447",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Guinea",
+        "Order ID": "500160586",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Zambia",
+        "Order ID": "360820043",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Georgia",
+        "Order ID": "958840644",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Bahrain",
+        "Order ID": "195833718",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Lesotho",
+        "Order ID": "543723094",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Barbados",
+        "Order ID": "494745099",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Order ID": "411448562",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Macedonia",
+        "Order ID": "276694810",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Turkmenistan",
+        "Order ID": "143657672",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Albania",
+        "Order ID": "585823476",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Afghanistan",
+        "Order ID": "446991050",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Kiribati",
+        "Order ID": "891271722",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Morocco",
+        "Order ID": "453089320",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Norway",
+        "Order ID": "887180173",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Sweden",
+        "Order ID": "418593108",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Tajikistan",
+        "Order ID": "492689454",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Netherlands",
+        "Order ID": "825143039",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Spain",
+        "Order ID": "751940190",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Chad",
+        "Order ID": "579379737",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Ireland",
+        "Order ID": "234073007",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Pakistan",
+        "Order ID": "612943828",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Mozambique",
+        "Order ID": "433228528",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Bahrain",
+        "Order ID": "282475936",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Tajikistan",
+        "Order ID": "368547379",
+        "Region": "Asia"
+    },
+    {
+        "Country": "New Zealand",
+        "Order ID": "969616687",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Niger",
+        "Order ID": "184170186",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Armenia",
+        "Order ID": "681006705",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Gabon",
+        "Order ID": "249237573",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Order ID": "348286616",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Fiji",
+        "Order ID": "257890164",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Romania",
+        "Order ID": "228097045",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Botswana",
+        "Order ID": "129268586",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Fiji",
+        "Order ID": "802078616",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Vatican City",
+        "Order ID": "907513463",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Thailand",
+        "Order ID": "976871955",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Belarus",
+        "Order ID": "261765420",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Solomon Islands",
+        "Order ID": "784117686",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "China",
+        "Order ID": "586165082",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Angola",
+        "Order ID": "480456435",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Cambodia",
+        "Order ID": "899853074",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Guatemala",
+        "Order ID": "547528827",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Namibia",
+        "Order ID": "446970021",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Serbia",
+        "Order ID": "791975486",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Turkey",
+        "Order ID": "496656548",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Pakistan",
+        "Order ID": "345437037",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Georgia",
+        "Order ID": "743053281",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Vanuatu",
+        "Order ID": "364554107",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Luxembourg",
+        "Order ID": "205300843",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Order ID": "430967319",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Vanuatu",
+        "Order ID": "827539861",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Haiti",
+        "Order ID": "351317298",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Tanzania",
+        "Order ID": "278910958",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "North Korea",
+        "Order ID": "157244670",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Bahrain",
+        "Order ID": "953554761",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Cote d'Ivoire",
+        "Order ID": "105390059",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Singapore",
+        "Order ID": "970611894",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Malaysia",
+        "Order ID": "677394092",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Albania",
+        "Order ID": "474222981",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Gabon",
+        "Order ID": "779897391",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Poland",
+        "Order ID": "733528649",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Chad",
+        "Order ID": "444540584",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Republic of the Congo",
+        "Order ID": "542669522",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Philippines",
+        "Order ID": "827964293",
+        "Region": "Asia"
+    },
+    {
+        "Country": "France",
+        "Order ID": "720786225",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Germany",
+        "Order ID": "611809146",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Uganda",
+        "Order ID": "512019383",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Bahrain",
+        "Order ID": "502715766",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Jordan",
+        "Order ID": "285509622",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Montenegro",
+        "Order ID": "532324779",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Tunisia ",
+        "Order ID": "635397565",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Germany",
+        "Order ID": "957276809",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Italy",
+        "Order ID": "580823838",
+        "Region": "Europe"
+    },
+    {
+        "Country": "France",
+        "Order ID": "459212481",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Algeria",
+        "Order ID": "265929067",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Myanmar",
+        "Order ID": "644772422",
+        "Region": "Asia"
+    },
+    {
+        "Country": "France",
+        "Order ID": "959853875",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Spain",
+        "Order ID": "645597255",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Cambodia",
+        "Order ID": "556738889",
+        "Region": "Asia"
+    },
+    {
+        "Country": "The Gambia",
+        "Order ID": "718327605",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Russia",
+        "Order ID": "775724732",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Belarus",
+        "Order ID": "444604098",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Turkey",
+        "Order ID": "860952031",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Kenya",
+        "Order ID": "531067359",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Iran",
+        "Order ID": "281561410",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Vietnam",
+        "Order ID": "109358012",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Albania",
+        "Order ID": "531693494",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Antigua and Barbuda ",
+        "Order ID": "336116683",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Senegal",
+        "Order ID": "630488908",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Netherlands",
+        "Order ID": "792983996",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Russia",
+        "Order ID": "722088277",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Slovakia",
+        "Order ID": "386600577",
+        "Region": "Europe"
+    },
+    {
+        "Country": "East Timor",
+        "Order ID": "275632226",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Haiti",
+        "Order ID": "948607051",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Yemen",
+        "Order ID": "785261380",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Tuvalu",
+        "Order ID": "935644042",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Liberia",
+        "Order ID": "370116364",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "North Korea",
+        "Order ID": "829352176",
+        "Region": "Asia"
+    },
+    {
+        "Country": "North Korea",
+        "Order ID": "974337804",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Romania",
+        "Order ID": "436372077",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Sao Tome and Principe",
+        "Order ID": "267066323",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Bahrain",
+        "Order ID": "688344371",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Somalia",
+        "Order ID": "642442548",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Cyprus",
+        "Order ID": "941909682",
+        "Region": "Europe"
+    },
+    {
+        "Country": "United Kingdom",
+        "Order ID": "219607102",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Germany",
+        "Order ID": "778708636",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Somalia",
+        "Order ID": "942700612",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "New Zealand",
+        "Order ID": "905381858",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Kuwait",
+        "Order ID": "480863702",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Japan",
+        "Order ID": "453569972",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Norway",
+        "Order ID": "328236997",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Lesotho",
+        "Order ID": "579913604",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Belgium",
+        "Order ID": "403961122",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Honduras",
+        "Order ID": "866053378",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Austria",
+        "Order ID": "852176702",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Oman",
+        "Order ID": "218629920",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Oman",
+        "Order ID": "242024362",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Spain",
+        "Order ID": "469283854",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Afghanistan",
+        "Order ID": "967644727",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Saint Vincent and the Grenadines",
+        "Order ID": "974655807",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Iceland",
+        "Order ID": "248178422",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Myanmar",
+        "Order ID": "416386401",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Netherlands",
+        "Order ID": "927766072",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Slovakia",
+        "Order ID": "401116263",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Bahrain",
+        "Order ID": "675548303",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Lesotho",
+        "Order ID": "960486018",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Cuba",
+        "Order ID": "985665738",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Afghanistan",
+        "Order ID": "551136291",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Vanuatu",
+        "Order ID": "877259004",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Bhutan",
+        "Order ID": "554707705",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Palau",
+        "Order ID": "494468724",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Indonesia",
+        "Order ID": "777840888",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Andorra",
+        "Order ID": "206435525",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Algeria",
+        "Order ID": "352176463",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Vanuatu",
+        "Order ID": "607300031",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Mexico",
+        "Order ID": "434355056",
+        "Region": "North America"
+    },
+    {
+        "Country": "Macedonia",
+        "Order ID": "716202867",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Panama",
+        "Order ID": "606017291",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Nepal",
+        "Order ID": "677284657",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Nepal",
+        "Order ID": "673803794",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Mauritius ",
+        "Order ID": "859686028",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Sao Tome and Principe",
+        "Order ID": "669355189",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Saint Vincent and the Grenadines",
+        "Order ID": "957547605",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Maldives",
+        "Order ID": "849312102",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Swaziland",
+        "Order ID": "890010011",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Morocco",
+        "Order ID": "795315158",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Maldives",
+        "Order ID": "801213872",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Order ID": "314004981",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "India",
+        "Order ID": "160299813",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Tajikistan",
+        "Order ID": "337022197",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Lesotho",
+        "Order ID": "461408460",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Bhutan",
+        "Order ID": "221007430",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Trinidad and Tobago",
+        "Order ID": "723680436",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Tuvalu",
+        "Order ID": "447601306",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Iraq",
+        "Order ID": "191256368",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "The Gambia",
+        "Order ID": "823444449",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Bahrain",
+        "Order ID": "133276879",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Qatar",
+        "Order ID": "480177485",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Angola",
+        "Order ID": "243882596",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Costa Rica",
+        "Order ID": "574441039",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Order ID": "442214143",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Qatar",
+        "Order ID": "687875735",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Saint Kitts and Nevis ",
+        "Order ID": "872412145",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Sierra Leone",
+        "Order ID": "627122199",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Russia",
+        "Order ID": "103617227",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Lithuania",
+        "Order ID": "423821055",
+        "Region": "Europe"
+    },
+    {
+        "Country": "United Kingdom",
+        "Order ID": "529970014",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Indonesia",
+        "Order ID": "334612929",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Mongolia",
+        "Order ID": "270611131",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Egypt",
+        "Order ID": "841138446",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Comoros",
+        "Order ID": "369681203",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Slovenia",
+        "Order ID": "850038230",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Lebanon",
+        "Order ID": "296320855",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Australia",
+        "Order ID": "392952907",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Haiti",
+        "Order ID": "644670712",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Saint Kitts and Nevis ",
+        "Order ID": "626523101",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Syria",
+        "Order ID": "433871400",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Laos",
+        "Order ID": "232389438",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Saint Kitts and Nevis ",
+        "Order ID": "708063542",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Sudan",
+        "Order ID": "817192542",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Guatemala",
+        "Order ID": "936387765",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Brunei",
+        "Order ID": "612573039",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Jordan",
+        "Order ID": "812984693",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Panama",
+        "Order ID": "775171554",
+        "Region": "Central America and the Caribbean"
+    },
+    {
+        "Country": "Central African Republic",
+        "Order ID": "256994950",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Bahrain",
+        "Order ID": "886628711",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Burundi",
+        "Order ID": "312559163",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Austria",
+        "Order ID": "753585135",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Fiji",
+        "Order ID": "448817956",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Fiji",
+        "Order ID": "407681453",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Switzerland",
+        "Order ID": "359911954",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Yemen",
+        "Order ID": "105558288",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Comoros",
+        "Order ID": "864981782",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Democratic Republic of the Congo",
+        "Order ID": "328856265",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Mongolia",
+        "Order ID": "308168065",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Palau",
+        "Order ID": "884216010",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Monaco",
+        "Order ID": "858611428",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Fiji",
+        "Order ID": "903278148",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Mali",
+        "Order ID": "410452497",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Liberia",
+        "Order ID": "642683303",
+        "Region": "Sub-Saharan Africa"
+    },
+    {
+        "Country": "Switzerland",
+        "Order ID": "682831895",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Samoa ",
+        "Order ID": "584072101",
+        "Region": "Australia and Oceania"
+    },
+    {
+        "Country": "Nepal",
+        "Order ID": "919890248",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Azerbaijan",
+        "Order ID": "534085166",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Georgia",
+        "Order ID": "590768182",
+        "Region": "Europe"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Order ID": "524363124",
+        "Region": "Middle East and North Africa"
+    },
+    {
+        "Country": "Finland",
+        "Order ID": "289606320",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Portugal",
+        "Order ID": "811546599",
+        "Region": "Europe"
+    }
+]

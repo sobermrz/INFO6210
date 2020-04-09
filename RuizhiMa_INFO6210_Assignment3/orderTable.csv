@@ -1,0 +1,1001 @@
+Item Type,Sales Channel,Order Priority,Order Priority,Order ID,Ship Date
+Cosmetics,Offline,M,M,686800706,10/31/14
+Vegetables,Online,M,M,185941302,12/8/11
+Baby Food,Offline,C,C,246222341,12/9/16
+Cereal,Offline,C,C,161442649,5/12/10
+Fruits,Offline,H,H,645713555,8/31/11
+Cereal,Online,H,H,683458888,12/28/14
+Cereal,Online,H,H,679414975,4/17/15
+Clothes,Offline,M,M,208630645,6/28/12
+Vegetables,Online,H,H,266467225,3/7/15
+Vegetables,Offline,H,H,118598544,1/19/14
+Clothes,Online,M,M,451010930,1/19/16
+Snacks,Offline,M,M,220003211,3/18/10
+Household,Online,C,C,702186715,12/22/16
+Cosmetics,Online,C,C,544485270,1/5/16
+Fruits,Offline,L,L,714135205,2/6/11
+Clothes,Offline,H,H,448685348,7/22/10
+Office Supplies,Online,H,H,405997025,5/12/16
+Beverages,Online,M,M,414244067,8/7/12
+Clothes,Online,C,C,821912801,10/3/14
+Household,Offline,L,L,247802054,9/8/12
+Snacks,Online,C,C,531023156,10/15/12
+Clothes,Online,L,L,880999934,9/16/10
+Personal Care,Online,H,H,127468717,3/9/11
+Clothes,Online,L,L,770478332,1/24/16
+Cereal,Online,H,H,430390107,11/13/12
+Beverages,Online,M,M,397877871,3/20/17
+Beverages,Offline,M,M,683927953,11/4/14
+Fruits,Offline,M,M,469839179,2/22/12
+Meat,Offline,H,H,357222878,3/9/16
+Personal Care,Online,C,C,118002879,1/7/16
+Beverages,Offline,C,C,944415509,6/23/17
+Office Supplies,Online,H,H,499009597,7/9/15
+Fruits,Online,L,L,564646470,3/16/14
+Baby Food,Offline,M,M,294499957,4/8/14
+Beverages,Offline,L,L,262056386,10/24/10
+Office Supplies,Online,M,M,211114585,5/14/10
+Office Supplies,Offline,H,H,405785882,10/22/13
+Vegetables,Offline,M,M,280494105,4/14/11
+Baby Food,Online,L,L,689975583,8/12/16
+Office Supplies,Online,L,L,759279143,2/18/11
+Office Supplies,Offline,C,C,133766114,6/12/14
+Beverages,Online,M,M,329110324,9/2/13
+Meat,Online,L,L,681298100,11/20/11
+Snacks,Offline,L,L,596628272,12/30/16
+Office Supplies,Offline,L,L,901712167,4/17/15
+Beverages,Online,M,M,693473613,4/21/13
+Meat,Online,C,C,489148938,9/1/10
+Household,Online,L,L,876286971,2/15/12
+Personal Care,Offline,H,H,262749040,8/30/15
+Meat,Online,H,H,726708972,1/26/17
+Vegetables,Online,L,L,366653096,5/31/12
+Vegetables,Online,M,M,951380240,12/20/10
+Cosmetics,Online,M,M,270001733,1/1/15
+Beverages,Online,C,C,681941401,7/28/16
+Fruits,Online,L,L,566935575,6/7/16
+Snacks,Offline,M,M,175033080,11/5/12
+Office Supplies,Offline,L,L,276595246,3/15/12
+Office Supplies,Online,M,M,812295901,2/13/11
+Vegetables,Offline,C,C,443121373,6/19/14
+Personal Care,Offline,H,H,600370490,1/25/17
+Office Supplies,Online,L,L,535654580,7/29/14
+Cosmetics,Offline,H,H,470897471,4/22/15
+Beverages,Offline,L,L,248335492,4/4/13
+Clothes,Offline,C,C,680517470,3/25/15
+Personal Care,Online,M,M,400304734,7/29/13
+Office Supplies,Offline,C,C,810871112,1/8/13
+Cereal,Online,L,L,235702931,4/3/12
+Office Supplies,Offline,C,C,668599021,5/12/14
+Baby Food,Online,M,M,123670709,2/1/16
+Office Supplies,Online,L,L,285341823,6/8/11
+Fruits,Online,H,H,658348691,8/22/10
+Baby Food,Offline,L,L,817740142,8/19/13
+Beverages,Offline,H,H,858877503,11/6/13
+Vegetables,Offline,M,M,947434604,2/19/17
+Meat,Offline,H,H,869397771,4/17/15
+Personal Care,Offline,L,L,481065833,5/8/12
+Meat,Online,C,C,159050118,10/1/13
+Office Supplies,Online,M,M,350274455,6/14/14
+Cereal,Online,L,L,221975171,5/17/10
+Office Supplies,Online,C,C,811701095,7/19/17
+Cereal,Online,L,L,977313554,3/29/15
+Snacks,Offline,L,L,546986377,2/10/10
+Fruits,Offline,L,L,769205892,3/17/10
+Clothes,Offline,M,M,262770926,2/8/13
+Snacks,Online,M,M,866792809,3/18/17
+Beverages,Offline,C,C,890695369,2/23/11
+Cereal,Offline,M,M,964214932,3/31/14
+Snacks,Online,C,C,887400329,8/17/13
+Beverages,Offline,M,M,980612885,9/4/11
+Clothes,Offline,M,M,734526431,8/2/16
+Baby Food,Online,L,L,160127294,3/23/14
+Clothes,Offline,L,L,238714301,9/13/10
+Household,Online,M,M,671898782,2/6/13
+Personal Care,Offline,H,H,331604564,11/17/10
+Cereal,Online,M,M,410067975,11/20/16
+Snacks,Offline,L,L,369837844,3/23/11
+Fruits,Online,L,L,193775498,1/31/13
+Clothes,Online,M,M,835054767,10/9/15
+Household,Offline,C,C,167161977,12/24/13
+Vegetables,Offline,C,C,633895957,8/22/14
+Clothes,Offline,C,C,699368035,12/7/10
+Vegetables,Offline,L,L,698002040,7/29/15
+Snacks,Offline,H,H,584534299,5/18/12
+Vegetables,Online,L,L,384013640,7/19/12
+Personal Care,Online,M,M,641801393,5/24/13
+Personal Care,Online,M,M,173571383,1/11/17
+Snacks,Offline,H,H,115309941,4/6/11
+Cosmetics,Offline,L,L,773315894,11/4/11
+Beverages,Online,M,M,274200570,6/26/12
+Clothes,Offline,M,M,414887797,11/17/11
+Beverages,Offline,L,L,812613904,1/29/10
+Baby Food,Online,H,H,254927718,9/7/11
+Beverages,Offline,M,M,749690568,10/26/14
+Cereal,Offline,C,C,775076282,9/19/14
+Office Supplies,Online,H,H,229571187,9/18/15
+Baby Food,Online,C,C,881974112,7/11/11
+Snacks,Online,L,L,521396386,2/14/12
+Household,Online,C,C,607261836,2/22/17
+Vegetables,Online,M,M,419306790,3/12/12
+Meat,Offline,H,H,207580077,7/18/10
+Snacks,Online,M,M,742443025,4/15/11
+Snacks,Offline,M,M,164569461,10/5/10
+Baby Food,Online,L,L,734945714,2/12/14
+Clothes,Offline,C,C,284870612,10/7/15
+Fruits,Offline,M,M,765955483,10/7/11
+Snacks,Offline,H,H,600124156,4/21/10
+Household,Offline,L,L,529612958,12/11/12
+Clothes,Offline,H,H,466970717,3/18/11
+Cosmetics,Online,C,C,845058763,9/22/12
+Snacks,Offline,L,L,367050921,8/31/14
+Office Supplies,Online,L,L,956433522,9/12/15
+Beverages,Online,C,C,107005393,5/4/11
+Beverages,Offline,C,C,332877862,5/7/13
+Baby Food,Online,L,L,618474757,12/31/15
+Household,Online,M,M,468532407,2/11/14
+Office Supplies,Offline,M,M,358099639,4/29/15
+Household,Online,H,H,382537782,1/27/13
+Personal Care,Offline,H,H,707520663,3/15/13
+Meat,Online,M,M,219034612,12/10/14
+Meat,Offline,M,M,573378455,1/17/15
+Personal Care,Online,H,H,347163522,3/22/11
+Snacks,Offline,M,M,887313640,4/21/13
+Cosmetics,Online,H,H,461065137,8/19/17
+Fruits,Offline,H,H,105966842,5/19/17
+Baby Food,Online,M,M,479880082,5/23/14
+Baby Food,Online,H,H,510978686,9/30/15
+Snacks,Offline,C,C,547748982,10/14/13
+Cereal,Offline,M,M,108989799,12/9/13
+Cereal,Offline,M,M,133812463,8/9/14
+Fruits,Offline,L,L,731640803,12/30/11
+Snacks,Offline,C,C,732211148,4/14/10
+Cereal,Online,M,M,835572326,8/8/11
+Baby Food,Offline,C,C,462085664,1/15/11
+Clothes,Online,C,C,902424991,7/4/16
+Fruits,Offline,H,H,367576634,1/5/14
+Meat,Offline,H,H,738839423,3/31/17
+Baby Food,Online,C,C,817824685,7/27/10
+Snacks,Online,C,C,376456248,8/1/13
+Office Supplies,Online,H,H,606970441,9/16/16
+Meat,Offline,L,L,971916091,1/19/15
+Office Supplies,Offline,L,L,554154527,5/15/12
+Household,Online,L,L,306859576,7/19/17
+Personal Care,Offline,L,L,803517568,7/21/17
+Office Supplies,Online,C,C,887927329,10/2/11
+Vegetables,Online,H,H,824200189,11/26/15
+Office Supplies,Online,H,H,946759974,9/14/12
+Clothes,Offline,H,H,310343015,12/28/15
+Vegetables,Online,C,C,739998137,7/9/14
+Beverages,Online,H,H,981086671,11/21/12
+Office Supplies,Offline,L,L,749282443,3/25/13
+Office Supplies,Online,C,C,280571782,3/11/11
+Household,Online,C,C,781253516,9/1/14
+Personal Care,Online,H,H,377938973,7/11/17
+Clothes,Offline,C,C,867551982,1/3/11
+Personal Care,Offline,C,C,967328870,1/15/10
+Office Supplies,Offline,C,C,364818465,10/16/11
+Office Supplies,Online,C,C,167882096,3/31/14
+Clothes,Online,H,H,654693591,12/1/12
+Personal Care,Offline,H,H,823739278,12/29/11
+Beverages,Offline,L,L,643817985,8/19/12
+Personal Care,Offline,H,H,604041039,5/15/17
+Personal Care,Online,H,H,363832271,9/12/10
+Personal Care,Online,L,L,102928006,1/31/16
+Office Supplies,Offline,M,M,971377074,5/15/16
+Meat,Online,L,L,139540803,12/4/10
+Meat,Offline,M,M,248093020,12/16/10
+Snacks,Offline,L,L,858020055,1/17/14
+Baby Food,Offline,H,H,700620734,1/5/15
+Cosmetics,Offline,L,L,827506387,1/30/17
+Household,Online,M,M,560600841,4/14/13
+Personal Care,Offline,H,H,642140424,1/16/13
+Baby Food,Offline,C,C,984673964,3/5/15
+Beverages,Online,L,L,221062791,4/18/12
+Vegetables,Offline,L,L,654480731,11/8/16
+Beverages,Offline,C,C,608414113,12/23/11
+Household,Online,L,L,276661765,4/20/16
+Baby Food,Online,L,L,373335015,2/28/11
+Clothes,Online,L,L,782857692,5/28/13
+Fruits,Online,H,H,109966123,6/5/10
+Cereal,Offline,M,M,629709136,6/6/17
+Personal Care,Online,L,L,637448060,9/15/12
+Baby Food,Online,H,H,298856723,4/3/17
+Household,Offline,L,L,299921452,2/23/15
+Personal Care,Offline,M,M,496941077,7/29/10
+Snacks,Online,L,L,366526925,7/14/16
+Meat,Offline,M,M,355602824,9/15/12
+Vegetables,Online,C,C,531405103,4/19/10
+Vegetables,Offline,M,M,131482589,1/20/10
+Cereal,Online,L,L,713696610,3/28/14
+Vegetables,Online,C,C,306220996,1/30/14
+Household,Offline,L,L,157542073,3/15/10
+Personal Care,Online,L,L,686458671,3/8/15
+Office Supplies,Online,M,M,132082116,7/22/12
+Clothes,Online,L,L,403836238,4/3/13
+Household,Online,C,C,331457364,4/23/14
+Meat,Online,H,H,614994323,9/12/17
+Fruits,Offline,L,L,674808442,10/24/10
+Baby Food,Offline,L,L,901573550,12/23/16
+Clothes,Online,L,L,406275975,5/10/14
+Vegetables,Online,C,C,170214545,8/19/16
+Personal Care,Offline,C,C,795000588,1/8/16
+Fruits,Offline,C,C,252557933,11/4/16
+Baby Food,Offline,M,M,635122907,12/13/16
+Vegetables,Online,C,C,505244338,9/19/11
+Clothes,Offline,H,H,745783555,5/9/12
+Snacks,Offline,M,M,509914386,6/11/12
+Household,Online,M,M,371123158,2/9/14
+Household,Online,H,H,973208701,12/28/16
+Baby Food,Online,L,L,780282342,12/27/13
+Clothes,Online,H,H,126767909,5/22/10
+Baby Food,Online,M,M,767401731,7/30/12
+Personal Care,Online,L,L,927232635,11/24/16
+Meat,Offline,M,M,251621949,10/20/12
+Office Supplies,Offline,H,H,256243503,7/23/17
+Cosmetics,Offline,C,C,277083623,9/2/11
+Vegetables,Offline,L,L,620441138,6/22/10
+Office Supplies,Offline,M,M,312927377,9/7/15
+Baby Food,Offline,L,L,251466166,9/8/10
+Office Supplies,Online,H,H,953293836,7/22/10
+Cereal,Online,C,C,305959212,4/23/12
+Cereal,Online,L,L,317323625,3/24/14
+Household,Offline,L,L,365560901,9/1/11
+Baby Food,Online,M,M,349157369,4/5/16
+Baby Food,Online,L,L,236911857,2/25/14
+Personal Care,Offline,H,H,517935693,6/16/15
+Clothes,Offline,C,C,851652705,3/27/12
+Cereal,Offline,M,M,517799222,10/23/12
+Office Supplies,Offline,C,C,666424071,3/4/15
+Fruits,Offline,C,C,267888581,12/22/10
+Vegetables,Online,L,L,162866580,7/26/11
+Beverages,Offline,H,H,812344396,8/30/14
+Meat,Online,M,M,947620856,9/3/14
+Vegetables,Online,H,H,720307290,3/28/15
+Household,Online,H,H,352327525,10/27/16
+Household,Online,C,C,585917890,7/23/13
+Meat,Offline,L,L,433627212,2/13/12
+Beverages,Online,C,C,328316819,5/30/12
+Cereal,Offline,C,C,773160541,11/21/11
+Household,Online,M,M,991644704,5/18/16
+Meat,Online,M,M,277568137,2/7/14
+Fruits,Online,C,C,245042169,12/15/16
+Household,Online,M,M,778490626,3/24/11
+Baby Food,Online,C,C,482649838,11/13/14
+Beverages,Online,L,L,732568633,7/5/12
+Household,Online,M,M,723608338,11/23/12
+Household,Offline,H,H,621442782,4/14/14
+Baby Food,Offline,M,M,212058293,10/6/15
+Snacks,Offline,L,L,251753699,3/24/14
+Fruits,Online,M,M,217140328,10/30/14
+Vegetables,Online,C,C,555142009,7/10/12
+Clothes,Online,C,C,432995069,12/13/10
+Personal Care,Offline,H,H,888248336,11/7/10
+Vegetables,Online,C,C,778763139,5/9/14
+Snacks,Offline,H,H,832713305,2/9/13
+Household,Offline,M,M,498585164,9/29/14
+Fruits,Offline,M,M,195177543,12/23/16
+Cereal,Online,C,C,861601769,12/2/10
+Meat,Online,H,H,807281672,1/26/15
+Clothes,Offline,H,H,661953580,4/24/11
+Cosmetics,Online,M,M,225666320,8/21/16
+Household,Offline,L,L,718781220,2/19/11
+Office Supplies,Online,L,L,731972110,4/15/10
+Vegetables,Online,C,C,276225316,2/9/15
+Office Supplies,Offline,C,C,332839667,7/27/16
+Vegetables,Online,C,C,603426492,6/15/14
+Beverages,Offline,H,H,859909617,1/29/13
+Household,Online,L,L,494525372,3/2/10
+Vegetables,Online,M,M,769822585,5/15/16
+Vegetables,Offline,C,C,768662583,8/10/12
+Cereal,Online,M,M,544219195,3/9/15
+Beverages,Offline,L,L,669978749,3/20/11
+Cosmetics,Offline,L,L,889740073,1/26/15
+Beverages,Online,M,M,567614495,6/28/12
+Vegetables,Offline,M,M,938025844,1/21/16
+Vegetables,Online,C,C,155710446,2/25/17
+Baby Food,Online,L,L,945717132,2/13/12
+Cosmetics,Offline,C,C,253407227,2/15/13
+Household,Offline,H,H,494454562,9/22/14
+Cereal,Online,M,M,104845464,7/24/12
+Cosmetics,Online,M,M,290878760,4/7/14
+Office Supplies,Offline,C,C,979165780,2/10/14
+Office Supplies,Offline,C,C,366630351,10/12/10
+Office Supplies,Online,C,C,770508801,6/25/11
+Beverages,Offline,M,M,978349959,5/21/13
+Beverages,Offline,L,L,298015153,8/14/14
+Snacks,Online,M,M,807678210,10/30/10
+Personal Care,Offline,C,C,605825459,5/14/13
+Fruits,Online,C,C,561255729,2/1/16
+Clothes,Online,H,H,263080346,12/14/13
+Cereal,Offline,C,C,270723140,3/9/14
+Clothes,Offline,H,H,763920438,7/10/17
+Household,Online,L,L,192721068,5/20/14
+Fruits,Offline,L,L,227486360,6/8/11
+Vegetables,Online,M,M,808890140,9/22/12
+Cosmetics,Offline,C,C,597918736,9/11/15
+Cosmetics,Online,H,H,125870978,11/20/14
+Household,Online,H,H,444358193,10/21/13
+Beverages,Online,C,C,875304210,3/12/13
+Baby Food,Offline,C,C,360945355,8/16/14
+Cereal,Offline,C,C,613830459,1/16/17
+Cereal,Offline,H,H,266820847,12/10/12
+Baby Food,Offline,M,M,723090350,11/27/14
+Meat,Offline,M,M,306125295,8/15/13
+Personal Care,Online,L,L,109724509,6/16/12
+Clothes,Offline,M,M,847999322,8/6/15
+Clothes,Online,H,H,605373561,3/2/17
+Beverages,Online,H,H,686583554,2/22/12
+Beverages,Offline,M,M,666678130,9/21/15
+Baby Food,Online,M,M,641018617,6/30/13
+Meat,Online,C,C,775278842,9/22/11
+Meat,Offline,M,M,855445134,12/6/16
+Vegetables,Online,H,H,737816321,9/21/10
+Beverages,Online,L,L,799003732,7/14/13
+Vegetables,Online,L,L,585931193,11/21/12
+Vegetables,Online,M,M,165835034,1/5/12
+Baby Food,Offline,H,H,576264083,3/14/12
+Clothes,Offline,L,L,675079667,1/7/15
+Personal Care,Online,L,L,290455615,5/28/12
+Snacks,Offline,L,L,670878255,2/15/12
+Cereal,Online,M,M,435146415,8/12/11
+Snacks,Online,C,C,522371423,4/8/17
+Office Supplies,Online,L,L,141977107,4/18/17
+Baby Food,Offline,L,L,823699796,4/19/16
+Beverages,Offline,L,L,567588317,12/26/15
+Fruits,Offline,H,H,594003999,11/16/11
+Baby Food,Offline,H,H,393620669,8/2/11
+Cosmetics,Offline,H,H,877424657,4/10/16
+Household,Offline,M,M,326714789,1/21/17
+Fruits,Offline,M,M,243102395,4/18/13
+Household,Offline,L,L,398511302,4/20/17
+Personal Care,Offline,M,M,185177838,7/4/11
+Personal Care,Offline,H,H,865650832,12/31/13
+Cereal,Offline,C,C,622791612,5/31/13
+Personal Care,Online,L,L,409774005,11/27/10
+Office Supplies,Online,H,H,800084340,4/21/16
+Snacks,Offline,M,M,637521445,9/12/13
+Beverages,Online,L,L,186196649,5/28/11
+Baby Food,Offline,L,L,680533778,7/25/14
+Beverages,Online,L,L,275269162,9/15/14
+Household,Online,C,C,795451629,6/19/15
+Cereal,Offline,M,M,986442506,1/1/14
+Cereal,Offline,M,M,563915622,6/10/12
+Cosmetics,Offline,C,C,663857305,11/13/13
+Fruits,Online,L,L,692566382,1/14/11
+Household,Offline,L,L,576654183,2/3/13
+Baby Food,Offline,H,H,313044536,4/14/11
+Personal Care,Offline,C,C,418973767,10/27/12
+Beverages,Online,C,C,581990706,11/15/14
+Baby Food,Online,H,H,109956681,7/24/15
+Cereal,Online,L,L,181045520,5/27/10
+Vegetables,Online,C,C,693743550,1/9/11
+Clothes,Offline,L,L,716849601,12/31/10
+Cosmetics,Online,L,L,739474999,1/1/13
+Personal Care,Online,M,M,421043574,9/7/16
+Personal Care,Online,M,M,841291654,3/20/15
+Cereal,Offline,L,L,450268065,1/4/14
+Meat,Online,L,L,918334138,6/12/12
+Meat,Offline,M,M,386163699,4/19/14
+Personal Care,Offline,C,C,214743077,2/18/17
+Baby Food,Online,M,M,935371100,7/6/15
+Cosmetics,Offline,H,H,899659097,12/3/12
+Vegetables,Online,H,H,329530894,2/13/10
+Meat,Online,H,H,867222821,2/6/16
+Beverages,Online,M,M,625283706,10/23/14
+Office Supplies,Offline,C,C,936574876,1/9/14
+Cereal,Offline,M,M,504270160,11/25/10
+Personal Care,Offline,M,M,351855885,6/2/11
+Snacks,Online,H,H,673130881,3/23/11
+Office Supplies,Offline,H,H,382206475,10/13/14
+Cereal,Online,H,H,263506495,12/14/15
+Cereal,Offline,L,L,721767270,7/18/17
+Cosmetics,Online,M,M,432037627,8/18/11
+Meat,Offline,C,C,389678895,8/24/14
+Meat,Online,L,L,760364902,2/24/17
+Fruits,Offline,C,C,430081975,12/9/10
+Baby Food,Online,H,H,155128943,5/5/15
+Clothes,Offline,H,H,312117135,10/16/12
+Meat,Offline,L,L,447970378,9/2/13
+Cosmetics,Offline,C,C,629925000,8/18/13
+Personal Care,Offline,L,L,995529830,12/17/13
+Office Supplies,Online,L,L,402646195,3/28/16
+Meat,Offline,M,M,479447925,4/4/12
+Cosmetics,Offline,H,H,674421346,6/29/17
+Cosmetics,Online,L,L,506365287,5/16/14
+Clothes,Online,C,C,914391076,8/4/16
+Meat,Online,L,L,207922542,7/1/12
+Office Supplies,Offline,M,M,816696012,2/16/14
+Beverages,Offline,L,L,740760314,11/21/15
+Baby Food,Online,C,C,300476777,2/28/13
+Snacks,Online,L,L,786519229,6/7/13
+Cosmetics,Offline,C,C,409873998,6/3/10
+Cosmetics,Offline,H,H,151839911,5/22/10
+Vegetables,Online,H,H,614028298,9/9/12
+Household,Offline,L,L,668362987,5/13/14
+Household,Online,M,M,607080304,4/5/13
+Baby Food,Online,M,M,792729079,1/17/12
+Baby Food,Offline,M,M,308170640,10/10/14
+Vegetables,Online,H,H,106578814,10/2/14
+Cereal,Online,H,H,761439931,3/28/14
+Household,Online,L,L,216552817,9/27/12
+Fruits,Online,H,H,536028802,9/22/10
+Beverages,Online,L,L,254291713,8/15/13
+Personal Care,Online,C,C,226077878,10/23/12
+Office Supplies,Offline,M,M,476436126,10/15/11
+Cosmetics,Offline,L,L,650727784,6/6/15
+Household,Offline,C,C,464626681,7/27/10
+Meat,Offline,C,C,154119145,9/21/15
+Meat,Online,M,M,925504004,12/6/15
+Cereal,Offline,L,L,905392587,8/16/12
+Snacks,Online,C,C,990708720,5/4/12
+Baby Food,Online,M,M,798688733,9/18/14
+Cereal,Offline,C,C,916881453,11/28/16
+Cosmetics,Offline,L,L,653148210,1/21/17
+Personal Care,Offline,C,C,285662829,7/13/10
+Vegetables,Online,C,C,612911641,8/31/16
+Office Supplies,Offline,L,L,703693473,1/12/14
+Clothes,Online,M,M,147119653,8/9/12
+Fruits,Online,C,C,402614009,3/2/12
+Personal Care,Online,C,C,749912869,4/25/13
+Household,Online,H,H,539065062,3/10/14
+Snacks,Offline,H,H,540431916,11/15/13
+Beverages,Online,C,C,694687259,6/2/16
+Cosmetics,Offline,H,H,562817418,6/2/11
+Cereal,Online,L,L,676121222,9/9/16
+Snacks,Offline,L,L,286210000,8/5/12
+Beverages,Online,L,L,515007579,1/11/15
+Cosmetics,Offline,C,C,304750287,6/1/10
+Beverages,Online,H,H,467986953,2/17/13
+Beverages,Offline,C,C,537578904,7/9/15
+Vegetables,Offline,L,L,116699969,11/18/14
+Snacks,Offline,C,C,228836476,3/13/17
+Vegetables,Offline,C,C,167787253,7/16/10
+Vegetables,Online,M,M,647663629,5/20/14
+Meat,Offline,L,L,652889430,4/15/15
+Office Supplies,Offline,M,M,588200986,10/15/15
+Personal Care,Online,L,L,928647124,8/30/15
+Cosmetics,Offline,L,L,869589173,3/17/16
+Household,Online,C,C,576700961,7/23/15
+Cereal,Offline,M,M,735968816,12/6/12
+Snacks,Offline,M,M,303691565,10/19/12
+Clothes,Offline,C,C,556480538,8/7/12
+Beverages,Offline,H,H,141259562,11/11/14
+Cosmetics,Offline,C,C,925264966,10/18/15
+Office Supplies,Online,H,H,346045577,2/20/16
+Fruits,Offline,H,H,861462724,4/19/10
+Personal Care,Online,M,M,499690234,8/28/12
+Clothes,Online,H,H,509214437,11/2/15
+Office Supplies,Online,M,M,408834159,7/18/17
+Beverages,Offline,M,M,237660729,4/30/16
+Clothes,Online,C,C,105117976,9/9/15
+Cereal,Offline,L,L,640942227,7/4/12
+Cosmetics,Online,L,L,745182311,5/5/16
+Baby Food,Offline,C,C,738199555,9/21/14
+Snacks,Online,L,L,110667788,9/10/15
+Office Supplies,Online,C,C,673573338,7/20/12
+Snacks,Offline,H,H,708215034,9/13/11
+Household,Online,M,M,816204202,7/1/12
+Beverages,Offline,L,L,769464671,12/24/11
+Beverages,Offline,L,L,860232770,6/4/15
+Personal Care,Offline,C,C,551057326,8/22/10
+Cosmetics,Online,C,C,724799668,5/27/16
+Cosmetics,Offline,H,H,534633624,6/8/11
+Beverages,Offline,H,H,554045522,9/20/12
+Clothes,Online,C,C,526834189,5/2/12
+Household,Online,C,C,717110955,8/9/10
+Baby Food,Offline,L,L,559299647,3/26/13
+Meat,Online,M,M,908136594,3/10/11
+Office Supplies,Offline,M,M,888670623,12/16/15
+Office Supplies,Offline,C,C,146263062,2/16/17
+Office Supplies,Offline,L,L,196587741,10/28/16
+Baby Food,Online,M,M,375630986,6/2/10
+Beverages,Offline,H,H,989691627,7/10/13
+Household,Offline,H,H,165380990,7/27/12
+Snacks,Online,C,C,599622905,10/22/13
+Personal Care,Offline,C,C,109653699,1/6/17
+Meat,Offline,M,M,183022201,10/15/11
+Personal Care,Online,L,L,127589738,4/2/11
+Fruits,Offline,L,L,221530139,1/26/11
+Office Supplies,Offline,M,M,363329732,2/22/15
+Fruits,Online,C,C,521787345,6/25/17
+Meat,Online,L,L,286014306,8/15/12
+Cereal,Offline,C,C,215434443,6/30/15
+Snacks,Online,L,L,489784085,11/1/11
+Office Supplies,Offline,C,C,459112060,10/12/14
+Office Supplies,Online,C,C,893779695,11/7/15
+Meat,Offline,M,M,834460818,3/31/11
+Beverages,Online,C,C,742141759,10/28/13
+Vegetables,Offline,M,M,248121345,9/14/10
+Clothes,Offline,M,M,404010903,9/4/12
+Household,Online,L,L,531734263,10/12/12
+Baby Food,Online,C,C,473527753,12/29/12
+Cereal,Offline,M,M,141940200,1/2/12
+Household,Offline,M,M,869832932,7/25/17
+Snacks,Online,H,H,460379779,11/4/11
+Vegetables,Online,C,C,837067067,10/26/15
+Beverages,Online,C,C,393693625,4/9/10
+Vegetables,Offline,L,L,744370782,7/14/14
+Cosmetics,Offline,M,M,873522365,1/13/15
+Beverages,Online,L,L,285884702,6/10/14
+Cosmetics,Online,H,H,356506621,9/3/12
+Baby Food,Offline,L,L,280749452,10/1/10
+Baby Food,Online,M,M,224287021,5/17/14
+Fruits,Offline,M,M,873105657,6/23/15
+Snacks,Offline,C,C,283504188,9/2/10
+Beverages,Offline,C,C,632093942,9/5/12
+Meat,Offline,L,L,565798747,8/9/16
+Vegetables,Online,M,M,151854932,10/19/10
+Vegetables,Online,H,H,427811324,4/16/11
+Fruits,Online,L,L,251529252,5/5/12
+Snacks,Offline,C,C,351182544,6/22/13
+Meat,Offline,H,H,175257527,9/25/14
+Snacks,Online,H,H,142553031,9/11/13
+Fruits,Offline,H,H,292180383,8/15/16
+Fruits,Offline,L,L,733563411,9/20/11
+Beverages,Online,H,H,296438443,4/19/11
+Meat,Offline,C,C,580854308,3/18/17
+Cosmetics,Offline,H,H,107172334,12/23/16
+Baby Food,Offline,H,H,166066348,12/5/10
+Snacks,Offline,H,H,768522679,3/27/15
+Household,Online,M,M,195840156,7/25/13
+Cosmetics,Offline,L,L,849630105,11/9/12
+Fruits,Offline,M,M,701816356,7/30/17
+Office Supplies,Online,M,M,944635236,7/27/10
+Vegetables,Online,L,L,140635573,3/21/17
+Meat,Online,C,C,972678697,2/25/11
+Fruits,Online,M,M,793938434,2/8/16
+Baby Food,Online,L,L,177901113,8/13/11
+Beverages,Online,L,L,668365561,5/4/12
+Vegetables,Online,C,C,729443109,1/12/11
+Fruits,Offline,H,H,695557582,4/3/13
+Household,Offline,H,H,521445310,4/4/10
+Personal Care,Online,L,L,232155120,3/30/13
+Beverages,Online,L,L,373048341,12/12/11
+Office Supplies,Offline,L,L,659798800,12/2/15
+Household,Online,C,C,428392827,2/5/13
+Personal Care,Offline,M,M,885129249,9/3/11
+Meat,Online,C,C,156619393,12/5/12
+Baby Food,Offline,M,M,939787089,9/9/15
+Vegetables,Online,C,C,151868665,4/19/12
+Cereal,Offline,C,C,180412948,8/24/14
+Fruits,Offline,H,H,333281266,7/28/13
+Cosmetics,Online,L,L,888647449,2/28/12
+Clothes,Offline,M,M,844997823,4/26/14
+Fruits,Online,M,M,171131217,10/8/13
+Office Supplies,Online,C,C,256158959,1/18/13
+Cosmetics,Online,H,H,759504878,12/8/11
+Fruits,Online,C,C,960905301,11/25/10
+Office Supplies,Offline,C,C,210409057,12/4/15
+Cosmetics,Offline,C,C,178377473,9/1/10
+Fruits,Online,M,M,805484378,5/1/14
+Beverages,Online,C,C,752716100,10/12/16
+Clothes,Online,M,M,551371467,9/15/12
+Snacks,Offline,M,M,353061807,3/5/13
+Personal Care,Online,C,C,379710948,1/30/11
+Cereal,Online,H,H,473555219,11/6/15
+Office Supplies,Online,C,C,547143447,2/23/11
+Personal Care,Online,C,C,133336961,6/13/12
+Meat,Online,H,H,635309588,10/14/16
+Beverages,Online,C,C,376547658,12/26/14
+Clothes,Offline,M,M,450849997,7/21/10
+Personal Care,Online,M,M,672327935,2/6/15
+Cereal,Offline,L,L,925405299,5/1/15
+Household,Offline,H,H,714818418,8/24/13
+Beverages,Offline,C,C,515616118,2/5/10
+Cereal,Offline,C,C,423159730,4/11/13
+Personal Care,Offline,H,H,603123080,9/29/13
+Meat,Offline,C,C,841492497,12/31/10
+Cereal,Offline,L,L,994566810,9/1/16
+Vegetables,Offline,M,M,538957345,4/25/13
+Fruits,Offline,L,L,821587932,3/11/11
+Household,Online,C,C,109694898,10/16/13
+Meat,Offline,M,M,340827071,6/5/14
+Meat,Offline,L,L,372845780,12/9/14
+Fruits,Online,M,M,933924853,9/13/14
+Office Supplies,Online,L,L,572550618,11/25/13
+Meat,Online,M,M,607521903,4/5/10
+Snacks,Online,H,H,177950036,4/29/17
+Beverages,Offline,M,M,293258845,11/14/15
+Beverages,Online,C,C,683184659,8/23/10
+Cereal,Online,L,L,247776305,11/30/10
+Meat,Offline,C,C,207395112,1/26/12
+Vegetables,Offline,L,L,952714908,2/25/14
+Vegetables,Online,C,C,694722020,10/3/10
+Household,Online,H,H,414715278,11/4/15
+Snacks,Offline,M,M,714306008,8/17/13
+Snacks,Online,H,H,465418040,2/26/16
+Cereal,Online,M,M,860287702,9/11/13
+Vegetables,Online,C,C,461463820,8/20/16
+Baby Food,Offline,M,M,151807725,9/29/13
+Meat,Offline,C,C,884493243,10/2/13
+Cosmetics,Offline,M,M,533006703,1/23/11
+Vegetables,Online,C,C,641146934,10/4/12
+Cosmetics,Offline,M,M,573025262,11/14/11
+Household,Offline,C,C,663065516,9/9/13
+Beverages,Online,M,M,866004025,3/4/17
+Baby Food,Online,H,H,306889617,10/21/10
+Personal Care,Online,M,M,431083619,8/10/14
+Personal Care,Online,H,H,954259860,6/4/15
+Personal Care,Offline,C,C,312404668,6/21/16
+Office Supplies,Offline,C,C,611816871,5/16/10
+Office Supplies,Online,C,C,879107797,11/2/13
+Vegetables,Offline,C,C,211201274,9/9/10
+Fruits,Online,H,H,925333631,7/25/15
+Snacks,Offline,C,C,909053695,6/27/10
+Baby Food,Online,L,L,370222795,6/11/16
+Cosmetics,Offline,H,H,487014758,8/30/13
+Vegetables,Online,M,M,257915914,10/6/13
+Meat,Offline,M,M,551725089,8/10/10
+Meat,Offline,L,L,957553613,1/10/14
+Office Supplies,Offline,L,L,234825313,3/23/16
+Snacks,Online,M,M,363276517,7/9/10
+Personal Care,Online,M,M,692956054,6/23/17
+Cosmetics,Online,H,H,194225251,6/19/13
+Fruits,Online,L,L,607757937,4/5/10
+Cereal,Offline,H,H,594540441,7/30/12
+Vegetables,Online,L,L,685871589,4/5/15
+Cereal,Offline,C,C,133362710,3/23/14
+Clothes,Offline,H,H,958937633,7/5/17
+Vegetables,Online,C,C,304832684,9/6/11
+Baby Food,Offline,L,L,783596694,12/24/10
+Household,Offline,C,C,128090989,4/27/15
+Vegetables,Offline,M,M,641489398,7/28/14
+Clothes,Offline,M,M,647278249,9/16/14
+Clothes,Online,H,H,339256370,3/31/11
+Baby Food,Offline,M,M,431535089,3/19/16
+Cereal,Offline,C,C,808538234,1/16/16
+Personal Care,Online,C,C,975002133,4/7/13
+Snacks,Online,H,H,505975615,7/4/15
+Vegetables,Offline,M,M,396820008,3/20/16
+Vegetables,Online,H,H,813209140,7/10/13
+Baby Food,Online,M,M,641129338,5/14/14
+Meat,Offline,C,C,636879432,7/3/15
+Snacks,Online,C,C,277070748,7/2/14
+Cosmetics,Offline,H,H,908627116,11/24/13
+Cosmetics,Offline,C,C,798784863,5/2/17
+Beverages,Offline,H,H,985092818,7/17/10
+Snacks,Offline,C,C,325412309,7/7/10
+Beverages,Online,M,M,447917163,6/24/16
+Meat,Offline,M,M,801093709,10/5/13
+Fruits,Offline,H,H,903740775,10/23/14
+Meat,Offline,L,L,794969689,11/13/10
+Clothes,Online,L,L,584204280,1/1/13
+Cereal,Offline,H,H,901180875,5/26/10
+Snacks,Offline,L,L,645948302,9/29/12
+Cereal,Online,L,L,138867890,2/22/15
+Beverages,Offline,L,L,670613467,3/21/10
+Cosmetics,Offline,L,L,452171361,5/27/14
+Snacks,Online,H,H,464840400,2/5/11
+Household,Online,M,M,410231912,10/24/14
+Meat,Offline,H,H,960269725,2/22/15
+Beverages,Offline,L,L,607190167,5/18/17
+Meat,Offline,H,H,613542068,8/11/16
+Household,Offline,C,C,962186753,1/12/17
+Beverages,Online,L,L,806298053,10/24/11
+Personal Care,Online,L,L,719362294,12/3/10
+Baby Food,Online,H,H,445178306,9/22/13
+Cosmetics,Offline,C,C,247857415,2/15/13
+Vegetables,Offline,C,C,461823451,9/4/14
+Office Supplies,Offline,C,C,141812741,1/24/17
+Meat,Online,C,C,212874114,8/17/16
+Office Supplies,Offline,C,C,320368897,4/2/10
+Beverages,Online,C,C,179970920,6/25/15
+Household,Online,H,H,927666509,7/17/12
+Office Supplies,Online,L,L,169754493,1/20/17
+Personal Care,Offline,M,M,532846200,4/20/15
+Snacks,Online,C,C,213865458,7/13/13
+Office Supplies,Online,C,C,630048596,9/3/11
+Clothes,Offline,H,H,568944442,4/24/14
+Baby Food,Online,L,L,238414323,2/27/12
+Office Supplies,Online,L,L,816632068,9/19/15
+Baby Food,Online,C,C,402084004,10/5/13
+Snacks,Online,L,L,763568961,6/7/15
+Snacks,Offline,L,L,590198266,6/1/15
+Snacks,Online,L,L,441395747,8/19/13
+Personal Care,Offline,H,H,496897733,7/21/10
+Beverages,Online,C,C,106753051,11/14/11
+Fruits,Offline,L,L,941323029,10/27/16
+Vegetables,Offline,M,M,241281497,3/3/14
+Meat,Offline,L,L,267614781,5/12/16
+Cosmetics,Offline,M,M,651621711,10/16/10
+Personal Care,Online,M,M,644913613,9/7/15
+Cereal,Offline,H,H,469414317,8/19/16
+Clothes,Online,L,L,867360150,7/1/15
+Clothes,Online,L,L,851299941,2/1/11
+Beverages,Offline,H,H,854095017,3/4/11
+Vegetables,Offline,C,C,478919208,11/27/12
+Clothes,Offline,H,H,749258840,11/5/14
+Baby Food,Offline,H,H,958912742,6/28/12
+Personal Care,Online,C,C,921992242,3/4/10
+Vegetables,Online,L,L,522921168,3/2/17
+Personal Care,Offline,C,C,166435849,6/7/13
+Baby Food,Offline,L,L,327585113,11/23/13
+Clothes,Offline,M,M,201730287,2/19/12
+Fruits,Offline,L,L,854545199,11/9/13
+Personal Care,Online,M,M,272016179,11/8/10
+Cereal,Offline,H,H,110442054,11/20/14
+Household,Offline,C,C,746434152,2/5/16
+Vegetables,Online,L,L,826916301,1/7/17
+Beverages,Offline,H,H,419124829,9/19/13
+Office Supplies,Online,C,C,560608565,8/24/14
+Office Supplies,Offline,L,L,109228837,12/7/13
+Clothes,Offline,C,C,693159472,2/5/11
+Snacks,Offline,L,L,860886800,11/23/13
+Fruits,Offline,C,C,131209647,5/3/12
+Office Supplies,Online,H,H,343239343,7/13/12
+Clothes,Online,H,H,706399714,7/19/10
+Office Supplies,Online,M,M,950427091,9/14/10
+Snacks,Offline,H,H,875370299,12/28/14
+Clothes,Online,C,C,801590669,3/15/11
+Personal Care,Offline,C,C,219762027,5/28/14
+Cereal,Offline,C,C,940870702,11/21/10
+Fruits,Online,M,M,346215522,5/4/14
+Clothes,Offline,C,C,837407815,7/20/16
+Meat,Online,L,L,386371409,7/19/14
+Beverages,Offline,H,H,185342633,11/24/13
+Snacks,Offline,C,C,596870315,2/18/17
+Meat,Online,C,C,703815782,1/7/13
+Personal Care,Online,C,C,559352862,6/4/10
+Cosmetics,Offline,C,C,736967885,3/12/11
+Clothes,Offline,C,C,980459678,2/9/15
+Vegetables,Offline,C,C,653939568,12/6/14
+Cosmetics,Online,H,H,991831386,1/29/16
+Cereal,Online,L,L,148871457,7/6/17
+Fruits,Online,H,H,850108611,2/25/15
+Office Supplies,Offline,M,M,940904176,1/7/14
+Office Supplies,Offline,H,H,136931979,12/13/15
+Beverages,Offline,L,L,474178349,9/26/16
+Personal Care,Offline,L,L,458942115,7/29/16
+Beverages,Offline,C,C,917834603,1/13/17
+Personal Care,Offline,H,H,947779643,12/5/16
+Clothes,Online,L,L,166013562,11/26/15
+Beverages,Online,L,L,960085189,2/13/11
+Cosmetics,Offline,C,C,837855851,11/8/15
+Snacks,Offline,L,L,977499377,8/12/10
+Beverages,Online,L,L,377502095,3/3/14
+Meat,Offline,H,H,806662833,3/27/13
+Vegetables,Online,H,H,954092919,5/11/17
+Meat,Online,L,L,479216182,4/26/11
+Personal Care,Online,H,H,461768949,12/30/10
+Meat,Online,C,C,251800048,5/22/14
+Personal Care,Offline,L,L,619670808,2/25/13
+Household,Offline,H,H,606055057,1/23/11
+Baby Food,Online,L,L,671939122,2/14/13
+Cosmetics,Offline,M,M,448621833,3/3/14
+Fruits,Online,M,M,987714517,9/11/17
+Household,Online,H,H,711141002,6/14/16
+Office Supplies,Online,C,C,361137616,4/18/12
+Household,Offline,H,H,750253188,11/21/11
+Office Supplies,Online,C,C,511349046,1/2/15
+Personal Care,Offline,L,L,147599017,8/28/11
+Beverages,Online,H,H,682489430,5/23/15
+Vegetables,Offline,M,M,509819114,2/23/14
+Office Supplies,Offline,M,M,343699395,4/2/12
+Clothes,Offline,L,L,968554103,4/8/11
+Beverages,Online,M,M,989119565,1/6/14
+Vegetables,Offline,M,M,880444610,10/31/12
+Vegetables,Offline,L,L,737890565,1/15/16
+Vegetables,Online,M,M,727131259,8/9/14
+Office Supplies,Offline,L,L,634153020,3/11/15
+Beverages,Online,H,H,315254676,9/8/14
+Personal Care,Offline,M,M,147047555,9/3/10
+Household,Online,L,L,576455485,2/13/13
+Snacks,Offline,L,L,770714795,8/26/10
+Cosmetics,Offline,H,H,867374312,8/3/11
+Fruits,Online,L,L,624295365,6/23/10
+Clothes,Offline,M,M,769651782,11/3/13
+Vegetables,Online,C,C,751929891,8/1/14
+Office Supplies,Online,H,H,989928519,4/11/10
+Meat,Offline,H,H,622758996,10/1/14
+Baby Food,Online,H,H,659845149,1/29/16
+Baby Food,Offline,H,H,830923306,6/5/11
+Beverages,Offline,L,L,936042296,3/17/10
+Household,Online,L,L,395563447,3/30/15
+Meat,Offline,M,M,500160586,6/7/11
+Fruits,Online,L,L,360820043,7/2/15
+Snacks,Online,C,C,958840644,6/2/10
+Baby Food,Online,M,M,195833718,4/7/11
+Personal Care,Offline,M,M,543723094,7/2/14
+Cosmetics,Offline,H,H,494745099,10/30/10
+Vegetables,Online,H,H,411448562,6/30/10
+Personal Care,Offline,H,H,276694810,2/16/17
+Office Supplies,Offline,M,M,143657672,1/8/17
+Baby Food,Online,L,L,585823476,1/6/12
+Clothes,Online,C,C,446991050,1/16/17
+Clothes,Offline,M,M,891271722,2/22/17
+Cosmetics,Online,C,C,453089320,6/16/10
+Baby Food,Offline,L,L,887180173,10/18/10
+Cosmetics,Online,L,L,418593108,3/25/14
+Personal Care,Online,M,M,492689454,8/16/10
+Cosmetics,Online,M,M,825143039,12/20/16
+Vegetables,Online,L,L,751940190,10/10/13
+Baby Food,Offline,H,H,579379737,8/26/16
+Meat,Online,C,C,234073007,11/20/11
+Meat,Online,C,C,612943828,3/1/13
+Fruits,Online,C,C,433228528,12/21/12
+Fruits,Online,L,L,282475936,11/28/15
+Meat,Online,M,M,368547379,7/12/12
+Meat,Offline,H,H,969616687,6/28/13
+Baby Food,Online,L,L,184170186,2/17/15
+Fruits,Online,C,C,681006705,6/14/11
+Baby Food,Online,L,L,249237573,2/21/12
+Vegetables,Offline,H,H,348286616,2/13/17
+Clothes,Offline,L,L,257890164,12/29/11
+Cosmetics,Online,H,H,228097045,6/17/17
+Cereal,Online,C,C,129268586,6/21/17
+Cosmetics,Online,M,M,802078616,12/9/15
+Clothes,Offline,C,C,907513463,4/19/10
+Vegetables,Online,L,L,976871955,8/31/10
+Cereal,Offline,C,C,261765420,7/17/12
+Vegetables,Offline,L,L,784117686,7/17/16
+Cosmetics,Offline,M,M,586165082,1/27/17
+Snacks,Online,C,C,480456435,12/16/12
+Cereal,Online,L,L,899853074,10/26/11
+Baby Food,Offline,L,L,547528827,12/15/10
+Vegetables,Online,L,L,446970021,5/9/16
+Beverages,Offline,H,H,791975486,3/20/16
+Vegetables,Offline,M,M,496656548,9/29/14
+Vegetables,Offline,C,C,345437037,6/30/13
+Vegetables,Offline,H,H,743053281,2/23/15
+Snacks,Offline,L,L,364554107,1/18/12
+Cosmetics,Online,H,H,205300843,12/3/12
+Household,Online,M,M,430967319,10/5/15
+Meat,Offline,H,H,827539861,7/1/12
+Snacks,Offline,H,H,351317298,1/14/15
+Household,Offline,C,C,278910958,2/4/13
+Cosmetics,Offline,C,C,157244670,3/15/17
+Beverages,Online,L,L,953554761,7/28/15
+Cereal,Online,L,L,105390059,8/25/16
+Cosmetics,Offline,L,L,970611894,11/10/14
+Baby Food,Offline,M,M,677394092,12/29/16
+Baby Food,Online,L,L,474222981,10/26/15
+Snacks,Online,L,L,779897391,5/5/16
+Snacks,Offline,L,L,733528649,3/30/17
+Office Supplies,Online,H,H,444540584,8/2/14
+Clothes,Online,H,H,542669522,9/11/12
+Fruits,Offline,L,L,827964293,6/1/13
+Snacks,Offline,M,M,720786225,2/15/12
+Household,Offline,H,H,611809146,8/1/16
+Personal Care,Online,M,M,512019383,12/12/12
+Personal Care,Online,C,C,502715766,8/17/14
+Office Supplies,Offline,M,M,285509622,10/28/13
+Beverages,Offline,L,L,532324779,1/3/15
+Personal Care,Offline,H,H,635397565,11/21/15
+Cereal,Offline,M,M,957276809,11/4/11
+Snacks,Online,L,L,580823838,3/21/14
+Office Supplies,Offline,H,H,459212481,6/16/16
+Baby Food,Online,L,L,265929067,5/23/13
+Beverages,Online,H,H,644772422,10/26/11
+Vegetables,Offline,C,C,959853875,5/4/12
+Vegetables,Online,C,C,645597255,10/25/12
+Baby Food,Offline,C,C,556738889,1/25/12
+Vegetables,Online,M,M,718327605,11/10/13
+Baby Food,Offline,L,L,775724732,3/20/15
+Baby Food,Offline,H,H,444604098,10/31/10
+Beverages,Online,C,C,860952031,5/13/11
+Meat,Offline,C,C,531067359,2/20/17
+Cosmetics,Offline,M,M,281561410,8/2/14
+Personal Care,Offline,L,L,109358012,7/10/17
+Beverages,Online,L,L,531693494,8/6/10
+Clothes,Offline,C,C,336116683,9/4/13
+Cereal,Offline,M,M,630488908,4/30/17
+Fruits,Online,L,L,792983996,12/2/16
+Fruits,Online,C,C,722088277,7/3/16
+Cosmetics,Online,H,H,386600577,1/29/10
+Beverages,Offline,L,L,275632226,1/18/15
+Vegetables,Offline,H,H,948607051,11/27/15
+Cereal,Online,H,H,785261380,5/26/13
+Cereal,Online,C,C,935644042,5/15/13
+Snacks,Offline,M,M,370116364,8/17/14
+Beverages,Online,C,C,829352176,8/26/13
+Household,Online,M,M,974337804,8/7/15
+Household,Online,H,H,436372077,1/3/15
+Cereal,Offline,M,M,267066323,5/19/15
+Fruits,Online,M,M,688344371,4/28/17
+Cosmetics,Offline,M,M,642442548,11/2/14
+Cereal,Online,C,C,941909682,8/1/14
+Beverages,Offline,C,C,219607102,8/13/16
+Personal Care,Offline,H,H,778708636,9/2/10
+Beverages,Online,M,M,942700612,6/6/10
+Household,Offline,H,H,905381858,4/8/11
+Meat,Online,C,C,480863702,1/28/10
+Cosmetics,Online,L,L,453569972,2/19/16
+Baby Food,Offline,H,H,328236997,9/10/16
+Personal Care,Offline,C,C,579913604,10/23/11
+Cosmetics,Online,H,H,403961122,3/20/10
+Cosmetics,Offline,L,L,866053378,6/22/17
+Household,Offline,C,C,852176702,5/13/10
+Baby Food,Online,M,M,218629920,10/20/15
+Baby Food,Offline,C,C,242024362,3/17/16
+Snacks,Offline,M,M,469283854,2/16/14
+Fruits,Online,C,C,967644727,4/30/13
+Cosmetics,Offline,L,L,974655807,7/23/14
+Vegetables,Online,M,M,248178422,3/22/12
+Vegetables,Offline,L,L,416386401,2/16/13
+Snacks,Offline,L,L,927766072,6/20/17
+Vegetables,Online,M,M,401116263,3/31/15
+Fruits,Offline,H,H,675548303,11/6/12
+Baby Food,Online,L,L,960486018,7/4/13
+Clothes,Offline,L,L,985665738,5/19/14
+Clothes,Offline,C,C,551136291,1/13/17
+Cereal,Online,L,L,877259004,2/16/17
+Beverages,Offline,M,M,554707705,9/19/14
+Cereal,Offline,L,L,494468724,10/23/10
+Personal Care,Online,H,H,777840888,10/23/11
+Baby Food,Offline,C,C,206435525,1/27/17
+Office Supplies,Online,C,C,352176463,12/5/15
+Cosmetics,Offline,C,C,607300031,10/14/13
+Baby Food,Online,H,H,434355056,9/28/13
+Fruits,Offline,M,M,716202867,9/20/11
+Personal Care,Online,H,H,606017291,6/12/16
+Cereal,Offline,H,H,677284657,1/15/15
+Fruits,Online,C,C,673803794,7/29/14
+Cereal,Offline,C,C,859686028,7/10/15
+Clothes,Online,H,H,669355189,9/26/15
+Fruits,Offline,L,L,957547605,11/21/13
+Personal Care,Online,M,M,849312102,11/23/13
+Personal Care,Offline,H,H,890010011,10/14/12
+Cereal,Online,H,H,795315158,10/26/12
+Clothes,Offline,M,M,801213872,1/28/17
+Fruits,Offline,C,C,314004981,8/9/10
+Cereal,Online,C,C,160299813,4/6/10
+Beverages,Offline,C,C,337022197,9/22/14
+Snacks,Offline,M,M,461408460,3/15/16
+Office Supplies,Offline,M,M,221007430,11/10/11
+Snacks,Offline,L,L,723680436,12/20/14
+Fruits,Offline,L,L,447601306,3/11/13
+Clothes,Offline,L,L,191256368,11/9/10
+Vegetables,Offline,L,L,823444449,10/30/16
+Beverages,Online,C,C,133276879,10/17/10
+Meat,Online,H,H,480177485,2/7/15
+Household,Offline,H,H,243882596,5/11/15
+Cosmetics,Online,L,L,574441039,4/6/17
+Household,Online,M,M,442214143,5/3/12
+Clothes,Offline,C,C,687875735,12/2/11
+Clothes,Offline,H,H,872412145,9/25/13
+Fruits,Offline,C,C,627122199,4/29/12
+Fruits,Online,M,M,103617227,3/12/11
+Vegetables,Offline,M,M,423821055,10/22/10
+Vegetables,Online,L,L,529970014,1/3/13
+Personal Care,Offline,H,H,334612929,10/3/16
+Beverages,Offline,M,M,270611131,5/24/14
+Office Supplies,Online,C,C,841138446,12/8/10
+Household,Online,M,M,369681203,5/9/12
+Household,Offline,M,M,850038230,4/21/14
+Beverages,Online,M,M,296320855,7/13/13
+Cosmetics,Offline,L,L,392952907,8/13/11
+Snacks,Online,M,M,644670712,3/21/11
+Meat,Online,L,L,626523101,2/16/12
+Vegetables,Offline,M,M,433871400,7/1/15
+Snacks,Offline,M,M,232389438,1/8/12
+Cereal,Offline,H,H,708063542,3/19/16
+Vegetables,Offline,H,H,817192542,12/22/16
+Meat,Offline,H,H,936387765,2/29/12
+Clothes,Offline,H,H,612573039,8/9/11
+Clothes,Online,M,M,812984693,8/22/11
+Meat,Offline,C,C,775171554,1/5/13
+Household,Online,H,H,256994950,2/19/10
+Beverages,Offline,M,M,886628711,3/31/17
+Beverages,Online,C,C,312559163,12/16/11
+Cereal,Online,L,L,753585135,9/13/14
+Beverages,Offline,H,H,448817956,4/22/16
+Clothes,Offline,M,M,407681453,12/24/12
+Snacks,Online,H,H,359911954,6/23/16
+Office Supplies,Offline,M,M,105558288,8/19/13
+Personal Care,Offline,H,H,864981782,2/11/15
+Office Supplies,Online,C,C,328856265,2/12/13
+Clothes,Offline,H,H,308168065,10/18/16
+Household,Offline,L,L,884216010,11/2/16
+Snacks,Offline,M,M,858611428,1/9/13
+Cereal,Online,L,L,903278148,4/3/17
+Beverages,Online,L,L,410452497,3/26/12
+Cereal,Offline,H,H,642683303,1/20/16
+Beverages,Offline,L,L,682831895,3/16/17
+Baby Food,Online,L,L,584072101,11/5/16
+Meat,Offline,C,C,919890248,5/18/17
+Snacks,Offline,C,C,534085166,4/25/10
+Baby Food,Offline,H,H,590768182,9/7/11
+Vegetables,Online,C,C,524363124,6/28/11
+Household,Offline,L,L,289606320,2/14/16
+Cereal,Offline,C,C,811546599,5/8/14
