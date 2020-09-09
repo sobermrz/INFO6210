@@ -1,0 +1,125 @@
+//1. 进入my_user数据库
+use test
+
+//2. 向数据库的user集合中插入一个文档
+db.users.insert({
+    username: "sunwukong"
+})
+
+//3. 查询user集合中的文档
+db.users.find()
+
+//4. 向数据库的user集合中插入一个文档
+db.users.insert({
+    username:"zhubajie"
+})
+
+//5. 查询数据库user集合中的文档
+db.users.find();
+
+//6. 统计数据库user集合中的文档数量
+db.users.find().count();
+
+//7. 查询数据库user集合中username为sunwukong的文档
+db.users.find({username:"sunwukong"});
+
+//8. 向数据库user集合中的suername为sunwukong的文档，添加一个address属性，属性值为huaguoshan
+db.users.update({username:"sunwukong"},{$set:{address:"huaguoshan"}});
+
+//9. 使用{username:"tangseng"}替换为username为hubajie的文档 
+db.users.replaceOne(
+    {username:"zubajie"},
+    {username:"tangsen"}
+);
+
+//10. 删除username为sunwukong的文档的address的属性
+db.users.update(
+    {username:"sunwukong"},
+    {$unset:{address:1}}
+);
+
+//11. 向username为sunwukong的文档中，添加一个hobby:{cities:["beijing","shanghai","shenzhen"], movies:["sanguo","hero"]}
+db.users.update(
+    {username:"sunwukong"},
+    {$set:{hobby:{cities:["beijing","shanghai","shenzhen"], movies:["sanguo","hero"]}}}
+    );
+
+//12. 向username为tangseng的文档中，添加一个hobby:{movies:["A Chinese man", "the king of god"]}
+db.users.update(
+    {username:"tangsen"},
+    {$set:{hobby:{movies:["A Chinese man", "the king of god"]}}}
+        );
+
+//13. 查询喜欢电影hero的文档
+db.users.find(
+    {'hobby.movies':"hero"}
+    );
+    
+//14. 向tangseng中添加一个新的电影Interstellar
+ db.users.update(
+    {username:"tangsen"},
+    {$push:{"hobby.movies":"Interstellar"}}
+    )
+
+db.users.find();
+    
+//15. 删除喜欢beijing的用户
+db.users.remove(
+    {"hobby.cities":"beijing"}
+    )
+    
+//16. 清空user集合
+db.users.remove({});
+
+db.users.drop();
+
+show dbs
+
+
+//17. 向numbers中插入20000条数据
+    //方法一：
+    for(var i = 0; i < 2000; i++){
+        db.numbers.insert({num: i});
+        }
+        
+    db.numbers.find().count();
+
+    db.numbers.remove({});
+
+    //方法二：
+    var arr = [];
+    for(var i = 0; i < 2000; i++){
+        arr.push({num: i});
+    }
+    
+    db.numbers.insert(arr);
+    
+    db.numbers.find({});
+    
+    //18. 查询numbers中num为500的文档
+    db.numbers.find({num:500});
+    
+    //19. 查询numbers中num小于30的文档
+    db.numbers.find({num:{$lt:30}})
+    
+    
+    //20. 查询numbers中num大于40小于50的文档
+    db.numbers.find({num:{$gt:40, $lt:50}})
+    
+    //21. 查询numbers中num大于19996的文档
+    db.numbers.find({num:{$gt:1996}});
+    
+    //22. 查看numbers集合中的前10条数据
+    db.numbers.find().limit(10);    
+    
+    //23. 查询number集合中的第11到2条数据      
+    db.numbers.find().skip(10).limit(10);
+    
+    //24. 查询number集合中的第21到30条数据  
+    db.numbers.find().skip(20).limit(10);
+    
+    
+
+
+
+
